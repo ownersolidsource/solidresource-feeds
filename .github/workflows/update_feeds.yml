@@ -39,6 +39,9 @@ jobs:
           python combine_feeds.py --out feeds/all.xml feeds/premarket_movers.xml feeds/finviz_movers.xml || true
           # Optional: add a simple index so the root isn't blank
           echo "<h1>SolidResource Feeds</h1><ul><li><a href='feeds/premarket_movers.xml'>Premarket</a></li><li><a href='feeds/finviz_movers.xml'>Finviz Intraday</a></li><li><a href='feeds/all.xml'>Combined</a></li></ul>" > index.html
+   
+      - name: Create batch feed
+        run: python batch_feed.py --out feeds/batch.xml feeds/premarket_movers.xml feeds/finviz_movers.xml
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
