@@ -1,24 +1,71 @@
 name: Update SolidResource Feeds
+
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *'  # every 30 minutes (UTC)
   workflow_dispatch:
+
+permissions:
+  contents: write  # REQUIRED so the workflow can push
+
+concurrency:
+  group: "update-feeds"
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0            # full history so we can rebase
+          persist-credentials: true # use GITHUB_TOKEN for push
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: |
+
+      - name: Install dependencies
+        run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - run: python finviz_rss.py --config config.yaml --out feeds/finviz_movers.xml
-      - run: python premarket_rss.py --config config.yaml --out feeds/premarket_movers.xml || true
-      - name: Commit & push
+
+      - name: Ensure feeds directory exists
+        run: mkdir -p feeds
+
+      - name: Generate Finviz feed
+        run: python finviz_rss.py --config config.yaml --out feeds/finviz_movers.xml
+
+      - name: Generate Premarket feed (fallback-hardened)
+        run: python premarket_rss.py --config config.yaml --out feeds/premarket_movers.xml || true
+
+      - name: Combine feeds (optional)
+        run: python combine_feeds.py --out feeds/all.xml feeds/premarket_movers.xml feeds/finviz_movers.xml || true
+
+      - name: Configure git
         run: |
           git config user.name "solid-bot"
           git config user.email "bot@solidresource.com"
-          git add feeds/finviz_movers.xml feeds/premarket_movers.xml || true
-          git diff --quiet || (git commit -m "Update feeds" && git push)
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Add changes
+        run: |
+          git add feeds/*.xml || true
+          # exit early if no diffs (prevents empty commit errors)
+          git diff --cached --quiet && echo "No feed changes, skipping commit." && exit 0
+
+      - name: Rebase to avoid non-fast-forward
+        run: |
+          # Make sure our local branch is up-to-date before committing
+          CURRENT_BRANCH="${GITHUB_REF_NAME}"
+          git fetch origin "${CURRENT_BRANCH}"
+          git pull --rebase origin "${CURRENT_BRANCH}" || true
+
+      - name: Commit & push
+        run: |
+          git commit -m "Update feeds via GitHub Actions [skip ci]" || exit 0
+          # retry push once in case another job pushed between fetch and push
+          git push || (git pull --rebase && git push)
