@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>SolidResource — Intraday Movers (Finviz)</title><link>https://solidresource.com/feeds/finviz_movers.xml</link><description>High-momentum stocks from Finviz</description><lastBuildDate>Tue, 07 Oct 2025 04:16:54 -0000</lastBuildDate><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><item><title>1 141.61% — $33.21 | Vol 0 | MCap 0</title><link>quote.ashx?t=A&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1AAgilent Technologies IncHealthcareDiagnostics &amp; ResearchUSA40.15B33.21141.61-0.02%1,523,870 2AAAlcoa CorpBasic MaterialsAluminumUSA8.75B8.6733.79-2.06%5,360,539 3AALAmerican Airlines Group IncIndustrialsAirlinesUSA7.81B15.2111.832.16%92,874,135 4AAOIApplied Optoelectronics IncTechnologyCommunication EquipmentUSA2.11B-33.7920.98%10,769,401 5AAONAAON IncIndustrialsBuilding Products &amp; EquipmentUSA8.47B70.80103.855.62%1,458,018 6AAPAdvance Auto Parts IncConsumer CyclicalAuto PartsUSA3.50B-58.31-4.94%1,584,490 7AAPLApple IncTechnologyConsumer ElectronicsUSA3809.38B39.02256.69-0.52%42,474,281 8ABBVAbbvie IncHealthcareDrug Manufacturers - GeneralUSA406.64B109.55230.19-1.59%10,422,177 9ABEVAmbev S.A. ADRConsumer DefensiveBeverages - BrewersBrazil33.99B13.372.180.46%32,515,953 10ABNBAirbnb IncConsumer CyclicalTravel ServicesUSA74.79B29.04120.350.11%5,465,818 11ABRArbor Realty Trust IncReal EstateREIT - MortgageUSA2.36B13.9112.28-1.44%1,814,087 12ABTAbbott LaboratoriesHealthcareMedical DevicesUSA232.77B16.73133.74-0.63%6,681,791 13ABTCAmerican Bitcoin CorpFinancialCapital MarketsUSA6.50B-7.152.44%3,532,683 14ABVXAbivax ADRHealthcareBiotechnologyFrance6.75B-86.673.28%2,940,908 15ACADAcadia Pharmaceuticals IncHealthcareBiotechnologyUSA3.64B16.2221.59-0.96%2,178,136 16ACGLArch Capital Group LtdFinancialInsurance - DiversifiedBermuda34.09B9.4491.350.62%1,473,439 17ACHCAcadia Healthcare Company IncHealthcareMedical Care FacilitiesUSA2.44B17.4326.46-2.51%2,629,556 18ACHRArcher Aviation IncIndustrialsAerospace &amp; DefenseUSA8.80B-13.6417.89%153,490,130 19ACIAlbertsons Companies IncConsumer DefensiveGrocery StoresUSA9.41B10.2416.80-3.34%8,732,732 20ACMRACM Research IncTechnologySemiconductor Equipment &amp; MaterialsUSA2.68B25.3541.780.53%1,035,806
+Company: A
+Sector: Agilent Technologies Inc
+Industry: Healthcare
+Country: Diagnostics &amp; Research
+Market Cap: USA
+P/E: 40.15B
+Price: 33.21
+Change: 141.61
+Volume: -0.02%
+Col11: 1,523,870
+Col12: 2
+Col13: AA
+Col14: Alcoa Corp
+Col15: Basic Materials
+Col16: Aluminum
+Col17: USA
+Col18: 8.75B
+Col19: 8.67
+Col20: 33.79
+Col21: -2.06%
+Col22: 5,360,539
+Col23: 3
+Col24: AAL
+Col25: American Airlines Group Inc
+Col26: Industrials
+Col27: Airlines
+Col28: USA
+Col29: 7.81B
+Col30: 15.21
+Col31: 11.83
+Col32: 2.16%
+Col33: 92,874,135
+Col34: 4
+Col35: AAOI
+Col36: Applied Optoelectronics Inc
+Col37: Technology
+Col38: Communication Equipment
+Col39: USA
+Col40: 2.11B
+Col41: -
+Col42: 33.79
+Col43: 20.98%
+Col44: 10,769,401
+Col45: 5
+Col46: AAON
+Col47: AAON Inc
+Col48: Industrials
+Col49: Building Products &amp; Equipment
+Col50: USA
+Col51: 8.47B
+Col52: 70.80
+Col53: 103.85
+Col54: 5.62%
+Col55: 1,458,018
+Col56: 6
+Col57: AAP
+Col58: Advance Auto Parts Inc
+Col59: Consumer Cyclical
+Col60: Auto Parts
+Col61: USA
+Col62: 3.50B
+Col63: -
+Col64: 58.31
+Col65: -4.94%
+Col66: 1,584,490
+Col67: 7
+Col68: AAPL
+Col69: Apple Inc
+Col70: Technology
+Col71: Consumer Electronics
+Col72: USA
+Col73: 3809.38B
+Col74: 39.02
+Col75: 256.69
+Col76: -0.52%
+Col77: 42,474,281
+Col78: 8
+Col79: ABBV
+Col80: Abbvie Inc
+Col81: Healthcare
+Col82: Drug Manufacturers - General
+Col83: USA
+Col84: 406.64B
+Col85: 109.55
+Col86: 230.19
+Col87: -1.59%
+Col88: 10,422,177
+Col89: 9
+Col90: ABEV
+Col91: Ambev S.A. ADR
+Col92: Consumer Defensive
+Col93: Beverages - Brewers
+Col94: Brazil
+Col95: 33.99B
+Col96: 13.37
+Col97: 2.18
+Col98: 0.46%
+Col99: 32,515,953
+Col100: 10
+Col101: ABNB
+Col102: Airbnb Inc
+Col103: Consumer Cyclical
+Col104: Travel Services
+Col105: USA
+Col106: 74.79B
+Col107: 29.04
+Col108: 120.35
+Col109: 0.11%
+Col110: 5,465,818
+Col111: 11
+Col112: ABR
+Col113: Arbor Realty Trust Inc
+Col114: Real Estate
+Col115: REIT - Mortgage
+Col116: USA
+Col117: 2.36B
+Col118: 13.91
+Col119: 12.28
+Col120: -1.44%
+Col121: 1,814,087
+Col122: 12
+Col123: ABT
+Col124: Abbott Laboratories
+Col125: Healthcare
+Col126: Medical Devices
+Col127: USA
+Col128: 232.77B
+Col129: 16.73
+Col130: 133.74
+Col131: -0.63%
+Col132: 6,681,791
+Col133: 13
+Col134: ABTC
+Col135: American Bitcoin Corp
+Col136: Financial
+Col137: Capital Markets
+Col138: USA
+Col139: 6.50B
+Col140: -
+Col141: 7.15
+Col142: 2.44%
+Col143: 3,532,683
+Col144: 14
+Col145: ABVX
+Col146: Abivax ADR
+Col147: Healthcare
+Col148: Biotechnology
+Col149: France
+Col150: 6.75B
+Col151: -
+Col152: 86.67
+Col153: 3.28%
+Col154: 2,940,908
+Col155: 15
+Col156: ACAD
+Col157: Acadia Pharmaceuticals Inc
+Col158: Healthcare
+Col159: Biotechnology
+Col160: USA
+Col161: 3.64B
+Col162: 16.22
+Col163: 21.59
+Col164: -0.96%
+Col165: 2,178,136
+Col166: 16
+Col167: ACGL
+Col168: Arch Capital Group Ltd
+Col169: Financial
+Col170: Insurance - Diversified
+Col171: Bermuda
+Col172: 34.09B
+Col173: 9.44
+Col174: 91.35
+Col175: 0.62%
+Col176: 1,473,439
+Col177: 17
+Col178: ACHC
+Col179: Acadia Healthcare Company Inc
+Col180: Healthcare
+Col181: Medical Care Facilities
+Col182: USA
+Col183: 2.44B
+Col184: 17.43
+Col185: 26.46
+Col186: -2.51%
+Col187: 2,629,556
+Col188: 18
+Col189: ACHR
+Col190: Archer Aviation Inc
+Col191: Industrials
+Col192: Aerospace &amp; Defense
+Col193: USA
+Col194: 8.80B
+Col195: -
+Col196: 13.64
+Col197: 17.89%
+Col198: 153,490,130
+Col199: 19
+Col200: ACI
+Col201: Albertsons Companies Inc
+Col202: Consumer Defensive
+Col203: Grocery Stores
+Col204: USA
+Col205: 9.41B
+Col206: 10.24
+Col207: 16.80
+Col208: -3.34%
+Col209: 8,732,732
+Col210: 20
+Col211: ACMR
+Col212: ACM Research Inc
+Col213: Technology
+Col214: Semiconductor Equipment &amp; Materials
+Col215: USA
+Col216: 2.68B
+Col217: 25.35
+Col218: 41.78
+Col219: 0.53%
+Col220: 1,035,806</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">1-20251007041654</guid></item><item><title>1 56.96% — $302.98 | Vol 0 | MCap 0</title><link>quote.ashx?t=FIG&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1FIGFigma IncTechnologySoftware - ApplicationUSA27.90B302.9856.967.39%27,668,150 2GSRTGSR III Acquisition CorpFinancialShell CompaniesUSA347.05M88.8212.3219.96%6,832,752 3ORLAOrla Mining LtdBasic MaterialsGoldCanada3.76B221.5011.5412.48%4,704,710
+Company: FIG
+Sector: Figma Inc
+Industry: Technology
+Country: Software - Application
+Market Cap: USA
+P/E: 27.90B
+Price: 302.98
+Change: 56.96
+Volume: 7.39%
+Col11: 27,668,150
+Col12: 2
+Col13: GSRT
+Col14: GSR III Acquisition Corp
+Col15: Financial
+Col16: Shell Companies
+Col17: USA
+Col18: 347.05M
+Col19: 88.82
+Col20: 12.32
+Col21: 19.96%
+Col22: 6,832,752
+Col23: 3
+Col24: ORLA
+Col25: Orla Mining Ltd
+Col26: Basic Materials
+Col27: Gold
+Col28: Canada
+Col29: 3.76B
+Col30: 221.50
+Col31: 11.54
+Col32: 12.48%
+Col33: 4,704,710</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">1-20251007041654</guid></item><item><title>AAOI 20.98% — $33.79 | Vol 10,769,401 | MCap 2,109,999,999</title><link>quote.ashx?t=AAOI&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: 4
+Company: Applied Optoelectronics Inc
+Sector: Technology
+Industry: Communication Equipment
+Country: USA
+Market Cap: 2.11B
+P/E: -
+Price: 33.79
+Change: 20.98%
+Volume: 10,769,401</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">AAOI-20251007041654</guid></item><item><title>GSRT 19.96% — $12.32 | Vol 6,832,752 | MCap 347,050,000</title><link>quote.ashx?t=GSRT&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: 2
+Company: GSR III Acquisition Corp
+Sector: Financial
+Industry: Shell Companies
+Country: USA
+Market Cap: 347.05M
+P/E: 88.82
+Price: 12.32
+Change: 19.96%
+Volume: 6,832,752</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">GSRT-20251007041654</guid></item><item><title>ACHR 17.89% — $13.64 | Vol 153,490,130 | MCap 8,800,000,000</title><link>quote.ashx?t=ACHR&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: 18
+Company: Archer Aviation Inc
+Sector: Industrials
+Industry: Aerospace &amp; Defense
+Country: USA
+Market Cap: 8.80B
+P/E: -
+Price: 13.64
+Change: 17.89%
+Volume: 153,490,130</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ACHR-20251007041654</guid></item><item><title>ORLA 12.48% — $11.54 | Vol 4,704,710 | MCap 3,760,000,000</title><link>quote.ashx?t=ORLA&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: 3
+Company: Orla Mining Ltd
+Sector: Basic Materials
+Industry: Gold
+Country: Canada
+Market Cap: 3.76B
+P/E: 221.50
+Price: 11.54
+Change: 12.48%
+Volume: 4,704,710</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ORLA-20251007041654</guid></item><item><title>FIG 7.39% — $56.96 | Vol 27,668,150 | MCap 27,900,000,000</title><link>quote.ashx?t=FIG&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: 1
+Company: Figma Inc
+Sector: Technology
+Industry: Software - Application
+Country: USA
+Market Cap: 27.90B
+P/E: 302.98
+Price: 56.96
+Change: 7.39%
+Volume: 27,668,150</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">FIG-20251007041654</guid></item><item><title>AAON 5.62% — $103.85 | Vol 1,458,018 | MCap 8,470,000,000</title><link>quote.ashx?t=AAON&amp;ty=c&amp;p=d&amp;b=1</link><description>No.: 5
+Company: AAON Inc
+Sector: Industrials
+Industry: Building Products &amp; Equipment
+Country: USA
+Market Cap: 8.47B
+P/E: 70.80
+Price: 103.85
+Change: 5.62%
+Volume: 1,458,018</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">AAON-20251007041654</guid></item><item><title>MY PRESETS -SAVE SCREEN -EDIT SCREENS 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=MY PRESETS -SAVE SCREEN -EDIT SCREENS</link><description>Company: Order by
+Sector: TickerTickers Input FilterCompanySectorIndustryCountryIndexExchangeMarket Cap.Price/EarningsForward Price/EarningsPEG (Price/Earnings/Growth)Price/SalesPrice/BookPrice/CashPrice/Free Cash FlowDividend YieldPayout RatioEPS (ttm)EPS Estimate Next QuarterEPS Growth This YearEPS Growth Next YearEPS Growth Past 3 YearsEPS Growth Past 5 YearsEPS Growth Next 5 YearsEPS Growth Qtr Over QtrEPS Year Over Year TTMSales Growth Past 3 YearsSales Growth Past 5 YearsSales Growth Qtr Over QtrSales Year Over Year TTMEPS SurpriseRevenue SurpriseShares OutstandingShares FloatFloat/OutstandingInsider OwnershipInsider TransactionsInstitutional OwnershipInstitutional TransactionsShort Interest ShareShort Interest RatioShort InterestEarnings DateLatest NewsReturn on AssetsReturn on EquityReturn on Invested CapitalCurrent RatioQuick RatioLT Debt/EquityTotal Debt/EquityGross MarginOperating MarginNet Profit MarginAnalyst RecommendationPerformance (Week)Performance (Month)Performance (Quarter)Performance (Half Year)Performance (Year To Date)Performance (Year)Performance (3 Years)Performance (5 Years)Performance (10 Years)BetaAverage True RangeVolatility (Week)Volatility (Month)20-Day SMA (Relative)50-Day SMA (Relative)200-Day SMA (Relative)50-Day High (Relative)50-Day Low (Relative)52-Week High (Relative)52-Week Low (Relative)52-Week RangeAll-Time High (Relative)All-Time Low (Relative)Relative Strength Index (14)Average Volume (3 Month)Relative VolumeChangeChange from OpenGapVolumeOpenHighLowPricePrevious CloseTarget PriceIPO DateBook Value per ShareCash per ShareDividendDividend Ex-DateDividend TTMDividend Growth (1 Year)Dividend Growth (3 Year)Dividend Growth (5 Year)EmployeesIncomeSalesEnterprise ValueEV/EBITDAEV/SalesOptionableShortableNews URLNews TitleNews TimeETF - Single CategoryETF - TagsETF - Total HoldingsETF - Assets Under ManagementETF - Net Fund Flows (1 Month)ETF - Net Fund Flows% (1 Month)ETF - Net Fund Flows (3 Month)ETF - Net Fund Flows% (3 Month)ETF - Net Fund Flows (YTD)ETF - Net Fund Flows% (YTD)ETF - Annualized Return (1 Year)ETF - Annualized Return (3 Year)ETF - Annualized Return (5 Year)ETF - Net Expense RatioETF - Active PassiveETF - Asset TypeETF - TypeETF - Sector/Theme
+Industry: AscDesc
+Country: Signal
+Market Cap: None (all stocks)Top GainersTop LosersNew HighNew LowMost VolatileMost ActiveUnusual VolumeOverboughtOversoldDowngradesUpgradesEarnings BeforeEarnings AfterRecent Insider BuyingRecent Insider SellingMajor NewsHorizontal S/RTL ResistanceTL SupportWedge UpWedge DownTriangle AscendingTriangle DescendingWedgeChannel UpChannel DownChannelDouble TopDouble BottomMultiple TopMultiple BottomHead &amp; ShouldersHead &amp; Shoulders Inverse
+P/E: Tickers
+Col11: Filters</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">MY PRESETS -SAVE SCREEN -EDIT SCREENS-20251007041654</guid></item><item><title>PERFORMANCE 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=PERFORMANCE</link><description>No.: Performance AnyIntraday (Elite only)Today UpToday DownToday -15%Today -10%Today -5%Today +5%Today +10%Today +15%Week -30%Week -20%Week -10%Week DownWeek UpWeek +10%Week +20%Week +30%Month -50%Month -30%Month -20%Month -10%Month DownMonth UpMonth +10%Month +20%Month +30%Month +50%Quarter -50%Quarter -30%Quarter -20%Quarter -10%Quarter DownQuarter UpQuarter +10%Quarter +20%Quarter +30%Quarter +50%Half -75%Half -50%Half -30%Half -20%Half -10%Half DownHalf UpHalf +10%Half +20%Half +30%Half +50%Half +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DownYTD UpYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%Year -75%Year -50%Year -30%Year -20%Year -10%Year DownYear UpYear +10%Year +20%Year +30%Year +50%Year +100%Year +200%Year +300%Year +500%3 Years -90%3 Years -75%3 Years -50%3 Years -30%3 Years -20%3 Years -10%3 Years Down3 Years Up3 Years +10%3 Years +20%3 Years +30%3 Years +50%3 Years +100%3 Years +200%3 Years +300%3 Years +500%3 Years +1000%5 Years -90%5 Years -75%5 Years -50%5 Years -30%5 Years -20%5 Years -10%5 Years Down5 Years Up5 Years +10%5 Years +20%5 Years +30%5 Years +50%5 Years +100%5 Years +200%5 Years +300%5 Years +500%5 Years +1000%10 Years -90%10 Years -75%10 Years -50%10 Years -30%10 Years -20%10 Years -10%10 Years Down10 Years Up10 Years +10%10 Years +20%10 Years +30%10 Years +50%10 Years +100%10 Years +200%10 Years +300%10 Years +500%10 Years +1000%Custom (Elite only) Performance 2 AnyIntraday (Elite only)Today UpToday DownToday -15%Today -10%Today -5%Today +5%Today +10%Today +15%Week -30%Week -20%Week -10%Week DownWeek UpWeek +10%Week +20%Week +30%Month -50%Month -30%Month -20%Month -10%Month DownMonth UpMonth +10%Month +20%Month +30%Month +50%Quarter -50%Quarter -30%Quarter -20%Quarter -10%Quarter DownQuarter UpQuarter +10%Quarter +20%Quarter +30%Quarter +50%Half -75%Half -50%Half -30%Half -20%Half -10%Half DownHalf UpHalf +10%Half +20%Half +30%Half +50%Half +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DownYTD UpYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%Year -75%Year -50%Year -30%Year -20%Year -10%Year DownYear UpYear +10%Year +20%Year +30%Year +50%Year +100%Year +200%Year +300%Year +500%3 Year -90%3 Year -75%3 Year -50%3 Year -30%3 Year -20%3 Year -10%3 Year Down3 Year Up3 Year +10%3 Year +20%3 Year +30%3 Year +50%3 Year +100%3 Year +200%3 Year +300%3 Year +500%3 Year +1000%5 Year -90%5 Year -75%5 Year -50%5 Year -30%5 Year -20%5 Year -10%5 Year Down5 Year Up5 Year +10%5 Year +20%5 Year +30%5 Year +50%5 Year +100%5 Year +200%5 Year +300%5 Year +500%5 Year +1000%10 Year -90%10 Year -75%10 Year -50%10 Year -30%10 Year -20%10 Year -10%10 Year Down10 Year Up10 Year +10%10 Year +20%10 Year +30%10 Year +50%10 Year +100%10 Year +200%10 Year +300%10 Year +500%10 Year +1000%Custom (Elite only) Volatility AnyWeek - Over 2%Week - Over 3%Week - Over 4%Week - Over 5%Week - Over 6%Week - Over 7%Week - Over 8%Week - Over 9%Week - Over 10%Week - Over 12%Week - Over 15%Month - Over 2%Month - Over 3%Month - Over 4%Month - Over 5%Month - Over 6%Month - Over 7%Month - Over 8%Month - Over 9%Month - Over 10%Month - Over 12%Month - Over 15%Custom (Elite only) RSI (14) AnyOverbought (90)Overbought (80)Overbought (70)Overbought (60)Oversold (40)Oversold (30)Oversold (20)Oversold (10)Not Overbought (&lt;60)Not Overbought (&lt;50)Not Oversold (&gt;50)Not Oversold (&gt;40)Custom (Elite only) Gap AnyUpUp 0%Up 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 0%Down 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only) 20-Day Simple Moving Average AnyPrice below SMA20Price 10% below SMA20Price 20% below SMA20Price 30% below SMA20Price 40% below SMA20Price 50% below SMA20Price above SMA20Price 10% above SMA20Price 20% above SMA20Price 30% above SMA20Price 40% above SMA20Price 50% above SMA20Price crossed SMA20Price crossed SMA20 abovePrice crossed SMA20 belowSMA20 crossed SMA50SMA20 crossed SMA50 aboveSMA20 crossed SMA50 belowSMA20 crossed SMA200SMA20 crossed SMA200 aboveSMA20 crossed SMA200 belowSMA20 above SMA50SMA20 below SMA50SMA20 above SMA200SMA20 below SMA200Custom (Elite only) 50-Day Simple Moving Average AnyPrice below SMA50Price 10% below SMA50Price 20% below SMA50Price 30% below SMA50Price 40% below SMA50Price 50% below SMA50Price above SMA50Price 10% above SMA50Price 20% above SMA50Price 30% above SMA50Price 40% above SMA50Price 50% above SMA50Price crossed SMA50Price crossed SMA50 abovePrice crossed SMA50 belowSMA50 crossed SMA20SMA50 crossed SMA20 aboveSMA50 crossed SMA20 belowSMA50 crossed SMA200SMA50 crossed SMA200 aboveSMA50 crossed SMA200 belowSMA50 above SMA20SMA50 below SMA20SMA50 above SMA200SMA50 below SMA200Custom (Elite only) 200-Day Simple Moving Average AnyPrice below SMA200Price 10% below SMA200Price 20% below SMA200Price 30% below SMA200Price 40% below SMA200Price 50% below SMA200Price 60% below SMA200Price 70% below SMA200Price 80% below SMA200Price 90% below SMA200Price above SMA200Price 10% above SMA200Price 20% above SMA200Price 30% above SMA200Price 40% above SMA200Price 50% above SMA200Price 60% above SMA200Price 70% above SMA200Price 80% above SMA200Price 90% above SMA200Price 100% above SMA200Price crossed SMA200Price crossed SMA200 abovePrice crossed SMA200 belowSMA200 crossed SMA20SMA200 crossed SMA20 aboveSMA200 crossed SMA20 belowSMA200 crossed SMA50SMA200 crossed SMA50 aboveSMA200 crossed SMA50 belowSMA200 above SMA20SMA200 below SMA20SMA200 above SMA50SMA200 below SMA50Custom (Elite only) Change AnyUpUp 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only) Change from Open AnyUpUp 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only) 20-Day High/Low AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only) 50-Day High/Low AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only) 52-Week High/Low AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High60% or more below High70% or more below High80% or more below High90% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low60% or more above Low70% or more above Low80% or more above Low90% or more above Low100% or more above Low120% or more above Low150% or more above Low200% or more above Low300% or more above Low500% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only) All-Time High/Low AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High60% or more below High70% or more below High80% or more below High90% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low60% or more above Low70% or more above Low80% or more above Low90% or more above Low100% or more above Low120% or more above Low150% or more above Low200% or more above Low300% or more above Low500% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only) Pattern AnyHorizontal S/RHorizontal S/R (Strong)TL ResistanceTL Resistance (Strong)TL SupportTL Support (Strong)Wedge UpWedge Up (Strong)Wedge DownWedge Down (Strong)Triangle AscendingTriangle Ascending (Strong)Triangle DescendingTriangle Descending (Strong)WedgeWedge (Strong)Channel UpChannel Up (Strong)Channel DownChannel Down (Strong)ChannelChannel (Strong)Double TopDouble BottomMultiple TopMultiple BottomHead &amp; ShouldersHead &amp; Shoulders InverseCustom (Elite only) Candlestick AnyLong Lower ShadowLong Upper ShadowHammerInverted HammerSpinning Top WhiteSpinning Top BlackDojiDragonfly DojiGravestone DojiMarubozu WhiteMarubozu BlackCustom (Elite only) Beta AnyUnder 0Under 0.5Under 1Under 1.5Under 2Over 0Over 0.5Over 1Over 1.5Over 2Over 2.5Over 3Over 40 to 0.50 to 10.5 to 10.5 to 1.51 to 1.51 to 2Custom (Elite only) Average True Range AnyOver 0.25Over 0.5Over 0.75Over 1Over 1.5Over 2Over 2.5Over 3Over 3.5Over 4Over 4.5Over 5Under 0.25Under 0.5Under 0.75Under 1Under 1.5Under 2Under 2.5Under 3Under 3.5Under 4Under 4.5Under 5Custom (Elite only) After-Hours Close AnyCustom (Elite only) After-Hours Change AnyCustom (Elite only)
+Company: AnyIntraday (Elite only)Today UpToday DownToday -15%Today -10%Today -5%Today +5%Today +10%Today +15%Week -30%Week -20%Week -10%Week DownWeek UpWeek +10%Week +20%Week +30%Month -50%Month -30%Month -20%Month -10%Month DownMonth UpMonth +10%Month +20%Month +30%Month +50%Quarter -50%Quarter -30%Quarter -20%Quarter -10%Quarter DownQuarter UpQuarter +10%Quarter +20%Quarter +30%Quarter +50%Half -75%Half -50%Half -30%Half -20%Half -10%Half DownHalf UpHalf +10%Half +20%Half +30%Half +50%Half +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DownYTD UpYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%Year -75%Year -50%Year -30%Year -20%Year -10%Year DownYear UpYear +10%Year +20%Year +30%Year +50%Year +100%Year +200%Year +300%Year +500%3 Years -90%3 Years -75%3 Years -50%3 Years -30%3 Years -20%3 Years -10%3 Years Down3 Years Up3 Years +10%3 Years +20%3 Years +30%3 Years +50%3 Years +100%3 Years +200%3 Years +300%3 Years +500%3 Years +1000%5 Years -90%5 Years -75%5 Years -50%5 Years -30%5 Years -20%5 Years -10%5 Years Down5 Years Up5 Years +10%5 Years +20%5 Years +30%5 Years +50%5 Years +100%5 Years +200%5 Years +300%5 Years +500%5 Years +1000%10 Years -90%10 Years -75%10 Years -50%10 Years -30%10 Years -20%10 Years -10%10 Years Down10 Years Up10 Years +10%10 Years +20%10 Years +30%10 Years +50%10 Years +100%10 Years +200%10 Years +300%10 Years +500%10 Years +1000%Custom (Elite only)
+Sector: Performance 2
+Industry: AnyIntraday (Elite only)Today UpToday DownToday -15%Today -10%Today -5%Today +5%Today +10%Today +15%Week -30%Week -20%Week -10%Week DownWeek UpWeek +10%Week +20%Week +30%Month -50%Month -30%Month -20%Month -10%Month DownMonth UpMonth +10%Month +20%Month +30%Month +50%Quarter -50%Quarter -30%Quarter -20%Quarter -10%Quarter DownQuarter UpQuarter +10%Quarter +20%Quarter +30%Quarter +50%Half -75%Half -50%Half -30%Half -20%Half -10%Half DownHalf UpHalf +10%Half +20%Half +30%Half +50%Half +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DownYTD UpYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%Year -75%Year -50%Year -30%Year -20%Year -10%Year DownYear UpYear +10%Year +20%Year +30%Year +50%Year +100%Year +200%Year +300%Year +500%3 Year -90%3 Year -75%3 Year -50%3 Year -30%3 Year -20%3 Year -10%3 Year Down3 Year Up3 Year +10%3 Year +20%3 Year +30%3 Year +50%3 Year +100%3 Year +200%3 Year +300%3 Year +500%3 Year +1000%5 Year -90%5 Year -75%5 Year -50%5 Year -30%5 Year -20%5 Year -10%5 Year Down5 Year Up5 Year +10%5 Year +20%5 Year +30%5 Year +50%5 Year +100%5 Year +200%5 Year +300%5 Year +500%5 Year +1000%10 Year -90%10 Year -75%10 Year -50%10 Year -30%10 Year -20%10 Year -10%10 Year Down10 Year Up10 Year +10%10 Year +20%10 Year +30%10 Year +50%10 Year +100%10 Year +200%10 Year +300%10 Year +500%10 Year +1000%Custom (Elite only)
+Country: Volatility
+Market Cap: AnyWeek - Over 2%Week - Over 3%Week - Over 4%Week - Over 5%Week - Over 6%Week - Over 7%Week - Over 8%Week - Over 9%Week - Over 10%Week - Over 12%Week - Over 15%Month - Over 2%Month - Over 3%Month - Over 4%Month - Over 5%Month - Over 6%Month - Over 7%Month - Over 8%Month - Over 9%Month - Over 10%Month - Over 12%Month - Over 15%Custom (Elite only)
+P/E: RSI (14)
+Price: AnyOverbought (90)Overbought (80)Overbought (70)Overbought (60)Oversold (40)Oversold (30)Oversold (20)Oversold (10)Not Overbought (&lt;60)Not Overbought (&lt;50)Not Oversold (&gt;50)Not Oversold (&gt;40)Custom (Elite only)
+Change: Gap
+Volume: AnyUpUp 0%Up 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 0%Down 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only)
+Col11: 20-Day Simple Moving Average
+Col12: AnyPrice below SMA20Price 10% below SMA20Price 20% below SMA20Price 30% below SMA20Price 40% below SMA20Price 50% below SMA20Price above SMA20Price 10% above SMA20Price 20% above SMA20Price 30% above SMA20Price 40% above SMA20Price 50% above SMA20Price crossed SMA20Price crossed SMA20 abovePrice crossed SMA20 belowSMA20 crossed SMA50SMA20 crossed SMA50 aboveSMA20 crossed SMA50 belowSMA20 crossed SMA200SMA20 crossed SMA200 aboveSMA20 crossed SMA200 belowSMA20 above SMA50SMA20 below SMA50SMA20 above SMA200SMA20 below SMA200Custom (Elite only)
+Col13: 50-Day Simple Moving Average
+Col14: AnyPrice below SMA50Price 10% below SMA50Price 20% below SMA50Price 30% below SMA50Price 40% below SMA50Price 50% below SMA50Price above SMA50Price 10% above SMA50Price 20% above SMA50Price 30% above SMA50Price 40% above SMA50Price 50% above SMA50Price crossed SMA50Price crossed SMA50 abovePrice crossed SMA50 belowSMA50 crossed SMA20SMA50 crossed SMA20 aboveSMA50 crossed SMA20 belowSMA50 crossed SMA200SMA50 crossed SMA200 aboveSMA50 crossed SMA200 belowSMA50 above SMA20SMA50 below SMA20SMA50 above SMA200SMA50 below SMA200Custom (Elite only)
+Col15: 200-Day Simple Moving Average
+Col16: AnyPrice below SMA200Price 10% below SMA200Price 20% below SMA200Price 30% below SMA200Price 40% below SMA200Price 50% below SMA200Price 60% below SMA200Price 70% below SMA200Price 80% below SMA200Price 90% below SMA200Price above SMA200Price 10% above SMA200Price 20% above SMA200Price 30% above SMA200Price 40% above SMA200Price 50% above SMA200Price 60% above SMA200Price 70% above SMA200Price 80% above SMA200Price 90% above SMA200Price 100% above SMA200Price crossed SMA200Price crossed SMA200 abovePrice crossed SMA200 belowSMA200 crossed SMA20SMA200 crossed SMA20 aboveSMA200 crossed SMA20 belowSMA200 crossed SMA50SMA200 crossed SMA50 aboveSMA200 crossed SMA50 belowSMA200 above SMA20SMA200 below SMA20SMA200 above SMA50SMA200 below SMA50Custom (Elite only)
+Col17: Change
+Col18: AnyUpUp 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only)
+Col19: Change from Open
+Col20: AnyUpUp 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only)
+Col21: 20-Day High/Low
+Col22: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Col23: 50-Day High/Low
+Col24: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Col25: 52-Week High/Low
+Col26: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High60% or more below High70% or more below High80% or more below High90% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low60% or more above Low70% or more above Low80% or more above Low90% or more above Low100% or more above Low120% or more above Low150% or more above Low200% or more above Low300% or more above Low500% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Col27: All-Time High/Low
+Col28: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High60% or more below High70% or more below High80% or more below High90% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low60% or more above Low70% or more above Low80% or more above Low90% or more above Low100% or more above Low120% or more above Low150% or more above Low200% or more above Low300% or more above Low500% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Col29: Pattern
+Col30: AnyHorizontal S/RHorizontal S/R (Strong)TL ResistanceTL Resistance (Strong)TL SupportTL Support (Strong)Wedge UpWedge Up (Strong)Wedge DownWedge Down (Strong)Triangle AscendingTriangle Ascending (Strong)Triangle DescendingTriangle Descending (Strong)WedgeWedge (Strong)Channel UpChannel Up (Strong)Channel DownChannel Down (Strong)ChannelChannel (Strong)Double TopDouble BottomMultiple TopMultiple BottomHead &amp; ShouldersHead &amp; Shoulders InverseCustom (Elite only)
+Col33: Candlestick
+Col34: AnyLong Lower ShadowLong Upper ShadowHammerInverted HammerSpinning Top WhiteSpinning Top BlackDojiDragonfly DojiGravestone DojiMarubozu WhiteMarubozu BlackCustom (Elite only)
+Col37: Beta
+Col38: AnyUnder 0Under 0.5Under 1Under 1.5Under 2Over 0Over 0.5Over 1Over 1.5Over 2Over 2.5Over 3Over 40 to 0.50 to 10.5 to 10.5 to 1.51 to 1.51 to 2Custom (Elite only)
+Col39: Average True Range
+Col40: AnyOver 0.25Over 0.5Over 0.75Over 1Over 1.5Over 2Over 2.5Over 3Over 3.5Over 4Over 4.5Over 5Under 0.25Under 0.5Under 0.75Under 1Under 1.5Under 2Under 2.5Under 3Under 3.5Under 4Under 4.5Under 5Custom (Elite only)
+Col41: After-Hours Close
+Col42: AnyCustom (Elite only)
+Col43: After-Hours Change
+Col44: AnyCustom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">PERFORMANCE-20251007041654</guid></item><item><title>ANYINTRADAY (ELITE ONLY)TODAY UPTODAY DOWNTODAY -15%TODAY -10%TODAY -5%TODAY +5%TODAY +10%TODAY +15%WEEK -30%WEEK -20%WEEK -10%WEEK DOWNWEEK UPWEEK +10%WEEK +20%WEEK +30%MONTH -50%MONTH -30%MONTH -20%MONTH -10%MONTH DOWNMONTH UPMONTH +10%MONTH +20%MONTH +30%MONTH +50%QUARTER -50%QUARTER -30%QUARTER -20%QUARTER -10%QUARTER DOWNQUARTER UPQUARTER +10%QUARTER +20%QUARTER +30%QUARTER +50%HALF -75%HALF -50%HALF -30%HALF -20%HALF -10%HALF DOWNHALF UPHALF +10%HALF +20%HALF +30%HALF +50%HALF +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DOWNYTD UPYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%YEAR -75%YEAR -50%YEAR -30%YEAR -20%YEAR -10%YEAR DOWNYEAR UPYEAR +10%YEAR +20%YEAR +30%YEAR +50%YEAR +100%YEAR +200%YEAR +300%YEAR +500%3 YEARS -90%3 YEARS -75%3 YEARS -50%3 YEARS -30%3 YEARS -20%3 YEARS -10%3 YEARS DOWN3 YEARS UP3 YEARS +10%3 YEARS +20%3 YEARS +30%3 YEARS +50%3 YEARS +100%3 YEARS +200%3 YEARS +300%3 YEARS +500%3 YEARS +1000%5 YEARS -90%5 YEARS -75%5 YEARS -50%5 YEARS -30%5 YEARS -20%5 YEARS -10%5 YEARS DOWN5 YEARS UP5 YEARS +10%5 YEARS +20%5 YEARS +30%5 YEARS +50%5 YEARS +100%5 YEARS +200%5 YEARS +300%5 YEARS +500%5 YEARS +1000%10 YEARS -90%10 YEARS -75%10 YEARS -50%10 YEARS -30%10 YEARS -20%10 YEARS -10%10 YEARS DOWN10 YEARS UP10 YEARS +10%10 YEARS +20%10 YEARS +30%10 YEARS +50%10 YEARS +100%10 YEARS +200%10 YEARS +300%10 YEARS +500%10 YEARS +1000%CUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=ANYINTRADAY (ELITE ONLY)TODAY UPTODAY DOWNTODAY -15%TODAY -10%TODAY -5%TODAY +5%TODAY +10%TODAY +15%WEEK -30%WEEK -20%WEEK -10%WEEK DOWNWEEK UPWEEK +10%WEEK +20%WEEK +30%MONTH -50%MONTH -30%MONTH -20%MONTH -10%MONTH DOWNMONTH UPMONTH +10%MONTH +20%MONTH +30%MONTH +50%QUARTER -50%QUARTER -30%QUARTER -20%QUARTER -10%QUARTER DOWNQUARTER UPQUARTER +10%QUARTER +20%QUARTER +30%QUARTER +50%HALF -75%HALF -50%HALF -30%HALF -20%HALF -10%HALF DOWNHALF UPHALF +10%HALF +20%HALF +30%HALF +50%HALF +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DOWNYTD UPYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%YEAR -75%YEAR -50%YEAR -30%YEAR -20%YEAR -10%YEAR DOWNYEAR UPYEAR +10%YEAR +20%YEAR +30%YEAR +50%YEAR +100%YEAR +200%YEAR +300%YEAR +500%3 YEARS -90%3 YEARS -75%3 YEARS -50%3 YEARS -30%3 YEARS -20%3 YEARS -10%3 YEARS DOWN3 YEARS UP3 YEARS +10%3 YEARS +20%3 YEARS +30%3 YEARS +50%3 YEARS +100%3 YEARS +200%3 YEARS +300%3 YEARS +500%3 YEARS +1000%5 YEARS -90%5 YEARS -75%5 YEARS -50%5 YEARS -30%5 YEARS -20%5 YEARS -10%5 YEARS DOWN5 YEARS UP5 YEARS +10%5 YEARS +20%5 YEARS +30%5 YEARS +50%5 YEARS +100%5 YEARS +200%5 YEARS +300%5 YEARS +500%5 YEARS +1000%10 YEARS -90%10 YEARS -75%10 YEARS -50%10 YEARS -30%10 YEARS -20%10 YEARS -10%10 YEARS DOWN10 YEARS UP10 YEARS +10%10 YEARS +20%10 YEARS +30%10 YEARS +50%10 YEARS +100%10 YEARS +200%10 YEARS +300%10 YEARS +500%10 YEARS +1000%CUSTOM (ELITE ONLY)</link><description>No.: Performance
+Company: Performance 2
+Sector: AnyIntraday (Elite only)Today UpToday DownToday -15%Today -10%Today -5%Today +5%Today +10%Today +15%Week -30%Week -20%Week -10%Week DownWeek UpWeek +10%Week +20%Week +30%Month -50%Month -30%Month -20%Month -10%Month DownMonth UpMonth +10%Month +20%Month +30%Month +50%Quarter -50%Quarter -30%Quarter -20%Quarter -10%Quarter DownQuarter UpQuarter +10%Quarter +20%Quarter +30%Quarter +50%Half -75%Half -50%Half -30%Half -20%Half -10%Half DownHalf UpHalf +10%Half +20%Half +30%Half +50%Half +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DownYTD UpYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%Year -75%Year -50%Year -30%Year -20%Year -10%Year DownYear UpYear +10%Year +20%Year +30%Year +50%Year +100%Year +200%Year +300%Year +500%3 Year -90%3 Year -75%3 Year -50%3 Year -30%3 Year -20%3 Year -10%3 Year Down3 Year Up3 Year +10%3 Year +20%3 Year +30%3 Year +50%3 Year +100%3 Year +200%3 Year +300%3 Year +500%3 Year +1000%5 Year -90%5 Year -75%5 Year -50%5 Year -30%5 Year -20%5 Year -10%5 Year Down5 Year Up5 Year +10%5 Year +20%5 Year +30%5 Year +50%5 Year +100%5 Year +200%5 Year +300%5 Year +500%5 Year +1000%10 Year -90%10 Year -75%10 Year -50%10 Year -30%10 Year -20%10 Year -10%10 Year Down10 Year Up10 Year +10%10 Year +20%10 Year +30%10 Year +50%10 Year +100%10 Year +200%10 Year +300%10 Year +500%10 Year +1000%Custom (Elite only)
+Industry: Volatility
+Country: AnyWeek - Over 2%Week - Over 3%Week - Over 4%Week - Over 5%Week - Over 6%Week - Over 7%Week - Over 8%Week - Over 9%Week - Over 10%Week - Over 12%Week - Over 15%Month - Over 2%Month - Over 3%Month - Over 4%Month - Over 5%Month - Over 6%Month - Over 7%Month - Over 8%Month - Over 9%Month - Over 10%Month - Over 12%Month - Over 15%Custom (Elite only)
+Market Cap: RSI (14)
+P/E: AnyOverbought (90)Overbought (80)Overbought (70)Overbought (60)Oversold (40)Oversold (30)Oversold (20)Oversold (10)Not Overbought (&lt;60)Not Overbought (&lt;50)Not Oversold (&gt;50)Not Oversold (&gt;40)Custom (Elite only)
+Price: Gap
+Change: AnyUpUp 0%Up 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 0%Down 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYINTRADAY (ELITE ONLY)TODAY UPTODAY DOWNTODAY -15%TODAY -10%TODAY -5%TODAY +5%TODAY +10%TODAY +15%WEEK -30%WEEK -20%WEEK -10%WEEK DOWNWEEK UPWEEK +10%WEEK +20%WEEK +30%MONTH -50%MONTH -30%MONTH -20%MONTH -10%MONTH DOWNMONTH UPMONTH +10%MONTH +20%MONTH +30%MONTH +50%QUARTER -50%QUARTER -30%QUARTER -20%QUARTER -10%QUARTER DOWNQUARTER UPQUARTER +10%QUARTER +20%QUARTER +30%QUARTER +50%HALF -75%HALF -50%HALF -30%HALF -20%HALF -10%HALF DOWNHALF UPHALF +10%HALF +20%HALF +30%HALF +50%HALF +100%YTD -75%YTD -50%YTD -30%YTD -20%YTD -10%YTD -5%YTD DOWNYTD UPYTD +5%YTD +10%YTD +20%YTD +30%YTD +50%YTD +100%YEAR -75%YEAR -50%YEAR -30%YEAR -20%YEAR -10%YEAR DOWNYEAR UPYEAR +10%YEAR +20%YEAR +30%YEAR +50%YEAR +100%YEAR +200%YEAR +300%YEAR +500%3 YEARS -90%3 YEARS -75%3 YEARS -50%3 YEARS -30%3 YEARS -20%3 YEARS -10%3 YEARS DOWN3 YEARS UP3 YEARS +10%3 YEARS +20%3 YEARS +30%3 YEARS +50%3 YEARS +100%3 YEARS +200%3 YEARS +300%3 YEARS +500%3 YEARS +1000%5 YEARS -90%5 YEARS -75%5 YEARS -50%5 YEARS -30%5 YEARS -20%5 YEARS -10%5 YEARS DOWN5 YEARS UP5 YEARS +10%5 YEARS +20%5 YEARS +30%5 YEARS +50%5 YEARS +100%5 YEARS +200%5 YEARS +300%5 YEARS +500%5 YEARS +1000%10 YEARS -90%10 YEARS -75%10 YEARS -50%10 YEARS -30%10 YEARS -20%10 YEARS -10%10 YEARS DOWN10 YEARS UP10 YEARS +10%10 YEARS +20%10 YEARS +30%10 YEARS +50%10 YEARS +100%10 YEARS +200%10 YEARS +300%10 YEARS +500%10 YEARS +1000%CUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>ANYPRICE BELOW SMA20PRICE 10% BELOW SMA20PRICE 20% BELOW SMA20PRICE 30% BELOW SMA20PRICE 40% BELOW SMA20PRICE 50% BELOW SMA20PRICE ABOVE SMA20PRICE 10% ABOVE SMA20PRICE 20% ABOVE SMA20PRICE 30% ABOVE SMA20PRICE 40% ABOVE SMA20PRICE 50% ABOVE SMA20PRICE CROSSED SMA20PRICE CROSSED SMA20 ABOVEPRICE CROSSED SMA20 BELOWSMA20 CROSSED SMA50SMA20 CROSSED SMA50 ABOVESMA20 CROSSED SMA50 BELOWSMA20 CROSSED SMA200SMA20 CROSSED SMA200 ABOVESMA20 CROSSED SMA200 BELOWSMA20 ABOVE SMA50SMA20 BELOW SMA50SMA20 ABOVE SMA200SMA20 BELOW SMA200CUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=ANYPRICE BELOW SMA20PRICE 10% BELOW SMA20PRICE 20% BELOW SMA20PRICE 30% BELOW SMA20PRICE 40% BELOW SMA20PRICE 50% BELOW SMA20PRICE ABOVE SMA20PRICE 10% ABOVE SMA20PRICE 20% ABOVE SMA20PRICE 30% ABOVE SMA20PRICE 40% ABOVE SMA20PRICE 50% ABOVE SMA20PRICE CROSSED SMA20PRICE CROSSED SMA20 ABOVEPRICE CROSSED SMA20 BELOWSMA20 CROSSED SMA50SMA20 CROSSED SMA50 ABOVESMA20 CROSSED SMA50 BELOWSMA20 CROSSED SMA200SMA20 CROSSED SMA200 ABOVESMA20 CROSSED SMA200 BELOWSMA20 ABOVE SMA50SMA20 BELOW SMA50SMA20 ABOVE SMA200SMA20 BELOW SMA200CUSTOM (ELITE ONLY)</link><description>No.: 20-Day Simple Moving Average
+Company: 50-Day Simple Moving Average
+Sector: AnyPrice below SMA50Price 10% below SMA50Price 20% below SMA50Price 30% below SMA50Price 40% below SMA50Price 50% below SMA50Price above SMA50Price 10% above SMA50Price 20% above SMA50Price 30% above SMA50Price 40% above SMA50Price 50% above SMA50Price crossed SMA50Price crossed SMA50 abovePrice crossed SMA50 belowSMA50 crossed SMA20SMA50 crossed SMA20 aboveSMA50 crossed SMA20 belowSMA50 crossed SMA200SMA50 crossed SMA200 aboveSMA50 crossed SMA200 belowSMA50 above SMA20SMA50 below SMA20SMA50 above SMA200SMA50 below SMA200Custom (Elite only)
+Industry: 200-Day Simple Moving Average
+Country: AnyPrice below SMA200Price 10% below SMA200Price 20% below SMA200Price 30% below SMA200Price 40% below SMA200Price 50% below SMA200Price 60% below SMA200Price 70% below SMA200Price 80% below SMA200Price 90% below SMA200Price above SMA200Price 10% above SMA200Price 20% above SMA200Price 30% above SMA200Price 40% above SMA200Price 50% above SMA200Price 60% above SMA200Price 70% above SMA200Price 80% above SMA200Price 90% above SMA200Price 100% above SMA200Price crossed SMA200Price crossed SMA200 abovePrice crossed SMA200 belowSMA200 crossed SMA20SMA200 crossed SMA20 aboveSMA200 crossed SMA20 belowSMA200 crossed SMA50SMA200 crossed SMA50 aboveSMA200 crossed SMA50 belowSMA200 above SMA20SMA200 below SMA20SMA200 above SMA50SMA200 below SMA50Custom (Elite only)
+Market Cap: Change
+P/E: AnyUpUp 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only)
+Price: Change from Open
+Change: AnyUpUp 1%Up 2%Up 3%Up 4%Up 5%Up 6%Up 7%Up 8%Up 9%Up 10%Up 15%Up 20%DownDown 1%Down 2%Down 3%Down 4%Down 5%Down 6%Down 7%Down 8%Down 9%Down 10%Down 15%Down 20%Custom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYPRICE BELOW SMA20PRICE 10% BELOW SMA20PRICE 20% BELOW SMA20PRICE 30% BELOW SMA20PRICE 40% BELOW SMA20PRICE 50% BELOW SMA20PRICE ABOVE SMA20PRICE 10% ABOVE SMA20PRICE 20% ABOVE SMA20PRICE 30% ABOVE SMA20PRICE 40% ABOVE SMA20PRICE 50% ABOVE SMA20PRICE CROSSED SMA20PRICE CROSSED SMA20 ABOVEPRICE CROSSED SMA20 BELOWSMA20 CROSSED SMA50SMA20 CROSSED SMA50 ABOVESMA20 CROSSED SMA50 BELOWSMA20 CROSSED SMA200SMA20 CROSSED SMA200 ABOVESMA20 CROSSED SMA200 BELOWSMA20 ABOVE SMA50SMA20 BELOW SMA50SMA20 ABOVE SMA200SMA20 BELOW SMA200CUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>ANYNEW HIGHNEW LOW5% OR MORE BELOW HIGH10% OR MORE BELOW HIGH15% OR MORE BELOW HIGH20% OR MORE BELOW HIGH30% OR MORE BELOW HIGH40% OR MORE BELOW HIGH50% OR MORE BELOW HIGH0-3% BELOW HIGH0-5% BELOW HIGH0-10% BELOW HIGH5% OR MORE ABOVE LOW10% OR MORE ABOVE LOW15% OR MORE ABOVE LOW20% OR MORE ABOVE LOW30% OR MORE ABOVE LOW40% OR MORE ABOVE LOW50% OR MORE ABOVE LOW0-3% ABOVE LOW0-5% ABOVE LOW0-10% ABOVE LOWCUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=ANYNEW HIGHNEW LOW5% OR MORE BELOW HIGH10% OR MORE BELOW HIGH15% OR MORE BELOW HIGH20% OR MORE BELOW HIGH30% OR MORE BELOW HIGH40% OR MORE BELOW HIGH50% OR MORE BELOW HIGH0-3% BELOW HIGH0-5% BELOW HIGH0-10% BELOW HIGH5% OR MORE ABOVE LOW10% OR MORE ABOVE LOW15% OR MORE ABOVE LOW20% OR MORE ABOVE LOW30% OR MORE ABOVE LOW40% OR MORE ABOVE LOW50% OR MORE ABOVE LOW0-3% ABOVE LOW0-5% ABOVE LOW0-10% ABOVE LOWCUSTOM (ELITE ONLY)</link><description>No.: 20-Day High/Low
+Company: 50-Day High/Low
+Sector: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Industry: 52-Week High/Low
+Country: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High60% or more below High70% or more below High80% or more below High90% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low60% or more above Low70% or more above Low80% or more above Low90% or more above Low100% or more above Low120% or more above Low150% or more above Low200% or more above Low300% or more above Low500% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Market Cap: All-Time High/Low
+P/E: AnyNew HighNew Low5% or more below High10% or more below High15% or more below High20% or more below High30% or more below High40% or more below High50% or more below High60% or more below High70% or more below High80% or more below High90% or more below High0-3% below High0-5% below High0-10% below High5% or more above Low10% or more above Low15% or more above Low20% or more above Low30% or more above Low40% or more above Low50% or more above Low60% or more above Low70% or more above Low80% or more above Low90% or more above Low100% or more above Low120% or more above Low150% or more above Low200% or more above Low300% or more above Low500% or more above Low0-3% above Low0-5% above Low0-10% above LowCustom (Elite only)
+Price: Pattern
+Change: AnyHorizontal S/RHorizontal S/R (Strong)TL ResistanceTL Resistance (Strong)TL SupportTL Support (Strong)Wedge UpWedge Up (Strong)Wedge DownWedge Down (Strong)Triangle AscendingTriangle Ascending (Strong)Triangle DescendingTriangle Descending (Strong)WedgeWedge (Strong)Channel UpChannel Up (Strong)Channel DownChannel Down (Strong)ChannelChannel (Strong)Double TopDouble BottomMultiple TopMultiple BottomHead &amp; ShouldersHead &amp; Shoulders InverseCustom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYNEW HIGHNEW LOW5% OR MORE BELOW HIGH10% OR MORE BELOW HIGH15% OR MORE BELOW HIGH20% OR MORE BELOW HIGH30% OR MORE BELOW HIGH40% OR MORE BELOW HIGH50% OR MORE BELOW HIGH0-3% BELOW HIGH0-5% BELOW HIGH0-10% BELOW HIGH5% OR MORE ABOVE LOW10% OR MORE ABOVE LOW15% OR MORE ABOVE LOW20% OR MORE ABOVE LOW30% OR MORE ABOVE LOW40% OR MORE ABOVE LOW50% OR MORE ABOVE LOW0-3% ABOVE LOW0-5% ABOVE LOW0-10% ABOVE LOWCUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>ANYLONG LOWER SHADOWLONG UPPER SHADOWHAMMERINVERTED HAMMERSPINNING TOP WHITESPINNING TOP BLACKDOJIDRAGONFLY DOJIGRAVESTONE DOJIMARUBOZU WHITEMARUBOZU BLACKCUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>#</link><description>No.: Candlestick
+Industry: Beta
+Country: AnyUnder 0Under 0.5Under 1Under 1.5Under 2Over 0Over 0.5Over 1Over 1.5Over 2Over 2.5Over 3Over 40 to 0.50 to 10.5 to 10.5 to 1.51 to 1.51 to 2Custom (Elite only)
+Market Cap: Average True Range
+P/E: AnyOver 0.25Over 0.5Over 0.75Over 1Over 1.5Over 2Over 2.5Over 3Over 3.5Over 4Over 4.5Over 5Under 0.25Under 0.5Under 0.75Under 1Under 1.5Under 2Under 2.5Under 3Under 3.5Under 4Under 4.5Under 5Custom (Elite only)
+Price: After-Hours Close
+Change: AnyCustom (Elite only)
+Volume: After-Hours Change
+Col11: AnyCustom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYLONG LOWER SHADOWLONG UPPER SHADOWHAMMERINVERTED HAMMERSPINNING TOP WHITESPINNING TOP BLACKDOJIDRAGONFLY DOJIGRAVESTONE DOJIMARUBOZU WHITEMARUBOZU BLACKCUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>OVERVIEW VALUATION FINANCIAL OWNERSHIP PERFORMANCE TECHNICAL ETF ETF PERF CUSTOM CHARTS TICKERS BASIC TA NEWS SNAPSHOT MAPS STATS 0.00% — $0.00 | Vol 0 | MCap 0</title><link>screener.ashx?v=111&amp;f=cap_smallover,sh_avgvol_o1000,sh_instown_u60,sh_opt_option,sh_price_o3,sh_relvol_o2,ta_change_u5,ta_sma20_pca,ta_volatility_wo4&amp;ft=3</link><description>No.: Overview Valuation Financial Ownership Performance Technical ETF ETF Perf Custom Charts Tickers Basic TA News Snapshot Maps Stats #1 / 3 Total save as portfolio | create alert Refresh: 3min | off Page 1 / 1 No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1FIGFigma IncTechnologySoftware - ApplicationUSA27.90B302.9856.967.39%27,668,150 2GSRTGSR III Acquisition CorpFinancialShell CompaniesUSA347.05M88.8212.3219.96%6,832,752 3ORLAOrla Mining LtdBasic MaterialsGoldCanada3.76B221.5011.5412.48%4,704,710 Filters: cap:smallover sh_avgvol:o1000 sh_instown:u60 sh_opt:option sh_price:o3 sh_relvol:o2...export 1
+Company: Overview
+Sector: Valuation
+Industry: Financial
+Country: Ownership
+Market Cap: Performance
+P/E: Technical
+Price: ETF
+Change: ETF Perf
+Volume: Custom
+Col11: Charts
+Col12: Tickers
+Col13: Basic
+Col14: TA
+Col15: News
+Col16: Snapshot
+Col17: Maps
+Col18: Stats
+Col20: #1 / 3 Total save as portfolio | create alert Refresh: 3min | off Page 1 / 1
+Col22: No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1FIGFigma IncTechnologySoftware - ApplicationUSA27.90B302.9856.967.39%27,668,150 2GSRTGSR III Acquisition CorpFinancialShell CompaniesUSA347.05M88.8212.3219.96%6,832,752 3ORLAOrla Mining LtdBasic MaterialsGoldCanada3.76B221.5011.5412.48%4,704,710
+Col23: No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1FIGFigma IncTechnologySoftware - ApplicationUSA27.90B302.9856.967.39%27,668,150 2GSRTGSR III Acquisition CorpFinancialShell CompaniesUSA347.05M88.8212.3219.96%6,832,752 3ORLAOrla Mining LtdBasic MaterialsGoldCanada3.76B221.5011.5412.48%4,704,710
+Col24: 1
+Col25: FIG
+Col26: Figma Inc
+Col27: Technology
+Col28: Software - Application
+Col29: USA
+Col30: 27.90B
+Col31: 302.98
+Col32: 56.96
+Col33: 7.39%
+Col34: 27,668,150
+Col35: 2
+Col36: GSRT
+Col37: GSR III Acquisition Corp
+Col38: Financial
+Col39: Shell Companies
+Col40: USA
+Col41: 347.05M
+Col42: 88.82
+Col43: 12.32
+Col44: 19.96%
+Col45: 6,832,752
+Col46: 3
+Col47: ORLA
+Col48: Orla Mining Ltd
+Col49: Basic Materials
+Col50: Gold
+Col51: Canada
+Col52: 3.76B
+Col53: 221.50
+Col54: 11.54
+Col55: 12.48%
+Col56: 4,704,710
+Col57: Filters: cap:smallover sh_avgvol:o1000 sh_instown:u60 sh_opt:option sh_price:o3 sh_relvol:o2...export
+Col58: Filters: cap:smallover sh_avgvol:o1000 sh_instown:u60 sh_opt:option sh_price:o3 sh_relvol:o2...
+Col59: export
+Col61: 1</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">OVERVIEW VALUATION FINANCIAL OWNERSHIP PERFORMANCE TECHNICAL ETF ETF PERF CUSTOM CHARTS TICKERS BASIC TA NEWS SNAPSHOT MAPS STATS-20251007041654</guid></item><item><title>OVERVIEW 0.00% — $0.00 | Vol 0 | MCap 0</title><link>screener.ashx?v=111&amp;f=cap_smallover,sh_avgvol_o1000,sh_instown_u60,sh_opt_option,sh_price_o3,sh_relvol_o2,ta_change_u5,ta_sma20_pca,ta_volatility_wo4&amp;ft=3</link><description>No.: Overview Valuation Financial Ownership Performance Technical ETF ETF Perf Custom Charts Tickers Basic TA News Snapshot Maps Stats
+Company: Valuation
+Sector: Financial
+Industry: Ownership
+Country: Performance
+Market Cap: Technical
+P/E: ETF
+Price: ETF Perf
+Change: Custom
+Volume: Charts
+Col11: Tickers
+Col12: Basic
+Col13: TA
+Col14: News
+Col15: Snapshot
+Col16: Maps
+Col17: Stats</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">OVERVIEW-20251007041654</guid></item><item><title>VALUATION 0.00% — $0.00 | Vol 0 | MCap 0</title><link>screener.ashx?v=121&amp;f=cap_smallover,sh_avgvol_o1000,sh_instown_u60,sh_opt_option,sh_price_o3,sh_relvol_o2,ta_change_u5,ta_sma20_pca,ta_volatility_wo4&amp;ft=3</link><description>No.: Overview
+Company: Financial
+Sector: Ownership
+Industry: Performance
+Country: Technical
+Market Cap: ETF
+P/E: ETF Perf
+Price: Custom
+Change: Charts
+Volume: Tickers
+Col11: Basic
+Col12: TA
+Col13: News
+Col14: Snapshot
+Col15: Maps
+Col16: Stats</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">VALUATION-20251007041654</guid></item><item><title>FILTERS: CAP:SMALLOVER SH_AVGVOL:O1000 SH_INSTOWN:U60 SH_OPT:OPTION SH_PRICE:O3 SH_RELVOL:O2... 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=FILTERS: CAP:SMALLOVER SH_AVGVOL:O1000 SH_INSTOWN:U60 SH_OPT:OPTION SH_PRICE:O3 SH_RELVOL:O2...</link><description>No.: Filters: cap:smallover sh_avgvol:o1000 sh_instown:u60 sh_opt:option sh_price:o3 sh_relvol:o2...export
+Company: export</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">FILTERS: CAP:SMALLOVER SH_AVGVOL:O1000 SH_INSTOWN:U60 SH_OPT:OPTION SH_PRICE:O3 SH_RELVOL:O2...-20251007041654</guid></item><item><title>EXPORT 0.00% — $0.00 | Vol 0 | MCap 0</title><link>/elite?utm_source=finviz&amp;utm_medium=banner&amp;utm_campaign=screener-export</link><description>No.: Filters: cap:smallover sh_avgvol:o1000 sh_instown:u60 sh_opt:option sh_price:o3 sh_relvol:o2...</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">EXPORT-20251007041654</guid></item><item><title>MY PRESETS -SAVE SCREEN -EDIT SCREENS 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=MY PRESETS -SAVE SCREEN -EDIT SCREENS</link><description>Company: Order by
+Sector: TickerTickers Input FilterCompanySectorIndustryCountryIndexExchangeMarket Cap.Price/EarningsForward Price/EarningsPEG (Price/Earnings/Growth)Price/SalesPrice/BookPrice/CashPrice/Free Cash FlowDividend YieldPayout RatioEPS (ttm)EPS Estimate Next QuarterEPS Growth This YearEPS Growth Next YearEPS Growth Past 3 YearsEPS Growth Past 5 YearsEPS Growth Next 5 YearsEPS Growth Qtr Over QtrEPS Year Over Year TTMSales Growth Past 3 YearsSales Growth Past 5 YearsSales Growth Qtr Over QtrSales Year Over Year TTMEPS SurpriseRevenue SurpriseShares OutstandingShares FloatFloat/OutstandingInsider OwnershipInsider TransactionsInstitutional OwnershipInstitutional TransactionsShort Interest ShareShort Interest RatioShort InterestEarnings DateLatest NewsReturn on AssetsReturn on EquityReturn on Invested CapitalCurrent RatioQuick RatioLT Debt/EquityTotal Debt/EquityGross MarginOperating MarginNet Profit MarginAnalyst RecommendationPerformance (Week)Performance (Month)Performance (Quarter)Performance (Half Year)Performance (Year To Date)Performance (Year)Performance (3 Years)Performance (5 Years)Performance (10 Years)BetaAverage True RangeVolatility (Week)Volatility (Month)20-Day SMA (Relative)50-Day SMA (Relative)200-Day SMA (Relative)50-Day High (Relative)50-Day Low (Relative)52-Week High (Relative)52-Week Low (Relative)52-Week RangeAll-Time High (Relative)All-Time Low (Relative)Relative Strength Index (14)Average Volume (3 Month)Relative VolumeChangeChange from OpenGapVolumeOpenHighLowPricePrevious CloseTarget PriceIPO DateBook Value per ShareCash per ShareDividendDividend Ex-DateDividend TTMDividend Growth (1 Year)Dividend Growth (3 Year)Dividend Growth (5 Year)EmployeesIncomeSalesEnterprise ValueEV/EBITDAEV/SalesOptionableShortableNews URLNews TitleNews TimeETF - Single CategoryETF - TagsETF - Total HoldingsETF - Assets Under ManagementETF - Net Fund Flows (1 Month)ETF - Net Fund Flows% (1 Month)ETF - Net Fund Flows (3 Month)ETF - Net Fund Flows% (3 Month)ETF - Net Fund Flows (YTD)ETF - Net Fund Flows% (YTD)ETF - Annualized Return (1 Year)ETF - Annualized Return (3 Year)ETF - Annualized Return (5 Year)ETF - Net Expense RatioETF - Active PassiveETF - Asset TypeETF - TypeETF - Sector/Theme
+Industry: AscDesc
+Country: Signal
+Market Cap: None (all stocks)Top GainersTop LosersNew HighNew LowMost VolatileMost ActiveUnusual VolumeOverboughtOversoldDowngradesUpgradesEarnings BeforeEarnings AfterRecent Insider BuyingRecent Insider SellingMajor NewsHorizontal S/RTL ResistanceTL SupportWedge UpWedge DownTriangle AscendingTriangle DescendingWedgeChannel UpChannel DownChannelDouble TopDouble BottomMultiple TopMultiple BottomHead &amp; ShouldersHead &amp; Shoulders Inverse
+P/E: Tickers
+Col11: Filters</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">MY PRESETS -SAVE SCREEN -EDIT SCREENS-20251007041654</guid></item><item><title>EXCHANGE 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=EXCHANGE</link><description>No.: Exchange AnyAMEXCBOENASDAQNYSECustom (Elite only) Index AnyS&amp;P 500NASDAQ 100DJIARUSSELL 2000Custom (Elite only) Sector AnyBasic MaterialsCommunication ServicesConsumer CyclicalConsumer DefensiveEnergyFinancialHealthcareIndustrialsReal EstateTechnologyUtilitiesCustom (Elite only) Industry AnyStocks only (ex-Funds)Exchange Traded FundAdvertising AgenciesAerospace &amp; DefenseAgricultural InputsAirlinesAirports &amp; Air ServicesAluminumApparel ManufacturingApparel RetailAsset ManagementAuto ManufacturersAuto PartsAuto &amp; Truck DealershipsBanks - DiversifiedBanks - RegionalBeverages - BrewersBeverages - Non-AlcoholicBeverages - Wineries &amp; DistilleriesBiotechnologyBroadcastingBuilding MaterialsBuilding Products &amp; EquipmentBusiness Equipment &amp; SuppliesCapital MarketsChemicalsClosed-End Fund - DebtClosed-End Fund - EquityClosed-End Fund - ForeignCoking CoalCommunication EquipmentComputer HardwareConfectionersConglomeratesConsulting ServicesConsumer ElectronicsCopperCredit ServicesDepartment StoresDiagnostics &amp; ResearchDiscount StoresDrug Manufacturers - GeneralDrug Manufacturers - Specialty &amp; GenericEducation &amp; Training ServicesElectrical Equipment &amp; PartsElectronic ComponentsElectronic Gaming &amp; MultimediaElectronics &amp; Computer DistributionEngineering &amp; ConstructionEntertainmentExchange Traded FundFarm &amp; Heavy Construction MachineryFarm ProductsFinancial ConglomeratesFinancial Data &amp; Stock ExchangesFood DistributionFootwear &amp; AccessoriesFurnishings, Fixtures &amp; AppliancesGamblingGoldGrocery StoresHealthcare PlansHealth Information ServicesHome Improvement RetailHousehold &amp; Personal ProductsIndustrial DistributionInformation Technology ServicesInfrastructure OperationsInsurance BrokersInsurance - DiversifiedInsurance - LifeInsurance - Property &amp; CasualtyInsurance - ReinsuranceInsurance - SpecialtyIntegrated Freight &amp; LogisticsInternet Content &amp; InformationInternet RetailLeisureLodgingLumber &amp; Wood ProductionLuxury GoodsMarine ShippingMedical Care FacilitiesMedical DevicesMedical DistributionMedical Instruments &amp; SuppliesMetal FabricationMortgage FinanceOil &amp; Gas DrillingOil &amp; Gas E&amp;POil &amp; Gas Equipment &amp; ServicesOil &amp; Gas IntegratedOil &amp; Gas MidstreamOil &amp; Gas Refining &amp; MarketingOther Industrial Metals &amp; MiningOther Precious Metals &amp; MiningPackaged FoodsPackaging &amp; ContainersPaper &amp; Paper ProductsPersonal ServicesPharmaceutical RetailersPollution &amp; Treatment ControlsPublishingRailroadsReal Estate - DevelopmentReal Estate - DiversifiedReal Estate ServicesRecreational VehiclesREIT - DiversifiedREIT - Healthcare FacilitiesREIT - Hotel &amp; MotelREIT - IndustrialREIT - MortgageREIT - OfficeREIT - ResidentialREIT - RetailREIT - SpecialtyRental &amp; Leasing ServicesResidential ConstructionResorts &amp; CasinosRestaurantsScientific &amp; Technical InstrumentsSecurity &amp; Protection ServicesSemiconductor Equipment &amp; MaterialsSemiconductorsShell CompaniesSilverSoftware - ApplicationSoftware - InfrastructureSolarSpecialty Business ServicesSpecialty ChemicalsSpecialty Industrial MachinerySpecialty RetailStaffing &amp; Employment ServicesSteelTelecom ServicesTextile ManufacturingThermal CoalTobaccoTools &amp; AccessoriesTravel ServicesTruckingUraniumUtilities - DiversifiedUtilities - Independent Power ProducersUtilities - Regulated ElectricUtilities - Regulated GasUtilities - Regulated WaterUtilities - RenewableWaste ManagementCustom (Elite only) Country AnyUSAForeign (ex-USA)AsiaEuropeLatin AmericaBRICArgentinaAustraliaBahamasBelgiumBeNeLuxBermudaBrazilCanadaCayman IslandsChileChinaChina &amp; Hong KongColombiaCyprusDenmarkFinlandFranceGermanyGreeceHong KongHungaryIcelandIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanLuxembourgMalaysiaMaltaMexicoMonacoNetherlandsNew ZealandNorwayPanamaPeruPhilippinesPortugalRussiaSingaporeSouth AfricaSouth KoreaSpainSwedenSwitzerlandTaiwanThailandTurkeyUnited Arab EmiratesUnited KingdomUruguayVietnamCustom (Elite only) Market Cap. AnyMega ($200bln and more)Large ($10bln to $200bln)Mid ($2bln to $10bln)Small ($300mln to $2bln)Micro ($50mln to $300mln)Nano (under $50mln)+Large (over $10bln)+Mid (over $2bln)+Small (over $300mln)+Micro (over $50mln)-Large (under $200bln)-Mid (under $10bln)-Small (under $2bln)-Micro (under $300mln)Custom (Elite only) Dividend Yield AnyNone (0%)Positive (&gt;0%)High (&gt;5%)Very High (&gt;10%)Over 1%Over 2%Over 3%Over 4%Over 5%Over 6%Over 7%Over 8%Over 9%Over 10%Custom (Elite only) Short Float AnyLow (&lt;5%)High (&gt;20%)Under 5%Under 10%Under 15%Under 20%Under 25%Under 30%Over 5%Over 10%Over 15%Over 20%Over 25%Over 30%Custom (Elite only) Analyst Recom. AnyStrong Buy (1)Buy or betterBuyHold or betterHoldHold or worseSellSell or worseStrong Sell (5)Custom (Elite only) Option/Short AnyOptionableShortableNot optionableNot shortableOptionable and shortableOptionable and not shortableNot optionable and shortableNot optionable and not shortableShort Sale Restricted (Elite only)Halted (Elite only)Over 10K available to shortOver 100K available to shortOver 1M available to shortOver 10M available to shortOver $1M available to shortOver $10M available to shortOver $100M available to shortOver $1B available to shortCustom (Elite only) Earnings Date AnyTodayToday Before Market OpenToday After Market CloseTomorrowTomorrow Before Market OpenTomorrow After Market CloseYesterdayYesterday Before Market OpenYesterday After Market CloseNext 5 DaysPrevious 5 DaysThis WeekNext WeekPrevious WeekThis MonthCustom (Elite only) Average Volume AnyUnder 50KUnder 100KUnder 500KUnder 750KUnder 1MOver 50KOver 100KOver 200KOver 300KOver 400KOver 500KOver 750KOver 1MOver 2M100K to 500K100K to 1M500K to 1M500K to 10MCustom (Elite only) Relative Volume AnyOver 10Over 5Over 3Over 2Over 1.5Over 1Over 0.75Over 0.5Over 0.25Under 2Under 1.5Under 1Under 0.75Under 0.5Under 0.25Under 0.1Custom (Elite only) Current Volume AnyUnder 50KUnder 100KUnder 500KUnder 750KUnder 1MOver 0Over 50KOver 100KOver 200KOver 300KOver 400KOver 500KOver 750KOver 1MOver 2MOver 5MOver 10MOver 20MOver 50% shares floatOver 100% shares floatUnder $1MUnder $10MUnder $100MUnder $1BOver $1MOver $10MOver $100MOver $1BCustom (Elite only) Trades Elite only Price $ AnyUnder $1Under $2Under $3Under $4Under $5Under $7Under $10Under $15Under $20Under $30Under $40Under $50Over $1Over $2Over $3Over $4Over $5Over $7Over $10Over $15Over $20Over $30Over $40Over $50Over $60Over $70Over $80Over $90Over $100$1 to $5$1 to $10$1 to $20$5 to $10$5 to $20$5 to $50$10 to $20$10 to $50$20 to $50$50 to $100Custom (Elite only) Target Price Any50% Above Price40% Above Price30% Above Price20% Above Price10% Above Price5% Above PriceAbove PriceBelow Price5% Below Price10% Below Price20% Below Price30% Below Price40% Below Price50% Below PriceCustom (Elite only) IPO Date AnyTodayYesterdayIn the last weekIn the last monthIn the last quarterIn the last yearIn the last 2 yearsIn the last 3 yearsIn the last 5 yearsMore than a year agoMore than 5 years agoMore than 10 years agoMore than 15 years agoMore than 20 years agoMore than 25 years agoCustom (Elite only) Shares Outstanding AnyUnder 1MUnder 5MUnder 10MUnder 20MUnder 50MUnder 100MOver 1MOver 2MOver 5MOver 10MOver 20MOver 50MOver 100MOver 200MOver 500MOver 1000MCustom (Elite only) Float AnyUnder 1MUnder 5MUnder 10MUnder 20MUnder 50MUnder 100MOver 1MOver 2MOver 5MOver 10MOver 20MOver 50MOver 100MOver 200MOver 500MOver 1000MUnder 10%Under 20%Under 30%Under 40%Under 50%Under 60%Under 70%Under 80%Under 90%Over 10%Over 20%Over 30%Over 40%Over 50%Over 60%Over 70%Over 80%Over 90%Custom (Elite only)
+Company: AnyAMEXCBOENASDAQNYSECustom (Elite only)
+Country: Index
+Market Cap: AnyS&amp;P 500NASDAQ 100DJIARUSSELL 2000Custom (Elite only)
+Change: Sector
+Volume: AnyBasic MaterialsCommunication ServicesConsumer CyclicalConsumer DefensiveEnergyFinancialHealthcareIndustrialsReal EstateTechnologyUtilitiesCustom (Elite only)
+Col13: Industry
+Col14: AnyStocks only (ex-Funds)Exchange Traded FundAdvertising AgenciesAerospace &amp; DefenseAgricultural InputsAirlinesAirports &amp; Air ServicesAluminumApparel ManufacturingApparel RetailAsset ManagementAuto ManufacturersAuto PartsAuto &amp; Truck DealershipsBanks - DiversifiedBanks - RegionalBeverages - BrewersBeverages - Non-AlcoholicBeverages - Wineries &amp; DistilleriesBiotechnologyBroadcastingBuilding MaterialsBuilding Products &amp; EquipmentBusiness Equipment &amp; SuppliesCapital MarketsChemicalsClosed-End Fund - DebtClosed-End Fund - EquityClosed-End Fund - ForeignCoking CoalCommunication EquipmentComputer HardwareConfectionersConglomeratesConsulting ServicesConsumer ElectronicsCopperCredit ServicesDepartment StoresDiagnostics &amp; ResearchDiscount StoresDrug Manufacturers - GeneralDrug Manufacturers - Specialty &amp; GenericEducation &amp; Training ServicesElectrical Equipment &amp; PartsElectronic ComponentsElectronic Gaming &amp; MultimediaElectronics &amp; Computer DistributionEngineering &amp; ConstructionEntertainmentExchange Traded FundFarm &amp; Heavy Construction MachineryFarm ProductsFinancial ConglomeratesFinancial Data &amp; Stock ExchangesFood DistributionFootwear &amp; AccessoriesFurnishings, Fixtures &amp; AppliancesGamblingGoldGrocery StoresHealthcare PlansHealth Information ServicesHome Improvement RetailHousehold &amp; Personal ProductsIndustrial DistributionInformation Technology ServicesInfrastructure OperationsInsurance BrokersInsurance - DiversifiedInsurance - LifeInsurance - Property &amp; CasualtyInsurance - ReinsuranceInsurance - SpecialtyIntegrated Freight &amp; LogisticsInternet Content &amp; InformationInternet RetailLeisureLodgingLumber &amp; Wood ProductionLuxury GoodsMarine ShippingMedical Care FacilitiesMedical DevicesMedical DistributionMedical Instruments &amp; SuppliesMetal FabricationMortgage FinanceOil &amp; Gas DrillingOil &amp; Gas E&amp;POil &amp; Gas Equipment &amp; ServicesOil &amp; Gas IntegratedOil &amp; Gas MidstreamOil &amp; Gas Refining &amp; MarketingOther Industrial Metals &amp; MiningOther Precious Metals &amp; MiningPackaged FoodsPackaging &amp; ContainersPaper &amp; Paper ProductsPersonal ServicesPharmaceutical RetailersPollution &amp; Treatment ControlsPublishingRailroadsReal Estate - DevelopmentReal Estate - DiversifiedReal Estate ServicesRecreational VehiclesREIT - DiversifiedREIT - Healthcare FacilitiesREIT - Hotel &amp; MotelREIT - IndustrialREIT - MortgageREIT - OfficeREIT - ResidentialREIT - RetailREIT - SpecialtyRental &amp; Leasing ServicesResidential ConstructionResorts &amp; CasinosRestaurantsScientific &amp; Technical InstrumentsSecurity &amp; Protection ServicesSemiconductor Equipment &amp; MaterialsSemiconductorsShell CompaniesSilverSoftware - ApplicationSoftware - InfrastructureSolarSpecialty Business ServicesSpecialty ChemicalsSpecialty Industrial MachinerySpecialty RetailStaffing &amp; Employment ServicesSteelTelecom ServicesTextile ManufacturingThermal CoalTobaccoTools &amp; AccessoriesTravel ServicesTruckingUraniumUtilities - DiversifiedUtilities - Independent Power ProducersUtilities - Regulated ElectricUtilities - Regulated GasUtilities - Regulated WaterUtilities - RenewableWaste ManagementCustom (Elite only)
+Col17: Country
+Col18: AnyUSAForeign (ex-USA)AsiaEuropeLatin AmericaBRICArgentinaAustraliaBahamasBelgiumBeNeLuxBermudaBrazilCanadaCayman IslandsChileChinaChina &amp; Hong KongColombiaCyprusDenmarkFinlandFranceGermanyGreeceHong KongHungaryIcelandIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanLuxembourgMalaysiaMaltaMexicoMonacoNetherlandsNew ZealandNorwayPanamaPeruPhilippinesPortugalRussiaSingaporeSouth AfricaSouth KoreaSpainSwedenSwitzerlandTaiwanThailandTurkeyUnited Arab EmiratesUnited KingdomUruguayVietnamCustom (Elite only)
+Col21: Market Cap.
+Col22: AnyMega ($200bln and more)Large ($10bln to $200bln)Mid ($2bln to $10bln)Small ($300mln to $2bln)Micro ($50mln to $300mln)Nano (under $50mln)+Large (over $10bln)+Mid (over $2bln)+Small (over $300mln)+Micro (over $50mln)-Large (under $200bln)-Mid (under $10bln)-Small (under $2bln)-Micro (under $300mln)Custom (Elite only)
+Col23: Dividend Yield
+Col24: AnyNone (0%)Positive (&gt;0%)High (&gt;5%)Very High (&gt;10%)Over 1%Over 2%Over 3%Over 4%Over 5%Over 6%Over 7%Over 8%Over 9%Over 10%Custom (Elite only)
+Col25: Short Float
+Col26: AnyLow (&lt;5%)High (&gt;20%)Under 5%Under 10%Under 15%Under 20%Under 25%Under 30%Over 5%Over 10%Over 15%Over 20%Over 25%Over 30%Custom (Elite only)
+Col27: Analyst Recom.
+Col28: AnyStrong Buy (1)Buy or betterBuyHold or betterHoldHold or worseSellSell or worseStrong Sell (5)Custom (Elite only)
+Col31: Option/Short
+Col32: AnyOptionableShortableNot optionableNot shortableOptionable and shortableOptionable and not shortableNot optionable and shortableNot optionable and not shortableShort Sale Restricted (Elite only)Halted (Elite only)Over 10K available to shortOver 100K available to shortOver 1M available to shortOver 10M available to shortOver $1M available to shortOver $10M available to shortOver $100M available to shortOver $1B available to shortCustom (Elite only)
+Col35: Earnings Date
+Col36: AnyTodayToday Before Market OpenToday After Market CloseTomorrowTomorrow Before Market OpenTomorrow After Market CloseYesterdayYesterday Before Market OpenYesterday After Market CloseNext 5 DaysPrevious 5 DaysThis WeekNext WeekPrevious WeekThis MonthCustom (Elite only)
+Col39: Average Volume
+Col40: AnyUnder 50KUnder 100KUnder 500KUnder 750KUnder 1MOver 50KOver 100KOver 200KOver 300KOver 400KOver 500KOver 750KOver 1MOver 2M100K to 500K100K to 1M500K to 1M500K to 10MCustom (Elite only)
+Col41: Relative Volume
+Col42: AnyOver 10Over 5Over 3Over 2Over 1.5Over 1Over 0.75Over 0.5Over 0.25Under 2Under 1.5Under 1Under 0.75Under 0.5Under 0.25Under 0.1Custom (Elite only)
+Col43: Current Volume
+Col44: AnyUnder 50KUnder 100KUnder 500KUnder 750KUnder 1MOver 0Over 50KOver 100KOver 200KOver 300KOver 400KOver 500KOver 750KOver 1MOver 2MOver 5MOver 10MOver 20MOver 50% shares floatOver 100% shares floatUnder $1MUnder $10MUnder $100MUnder $1BOver $1MOver $10MOver $100MOver $1BCustom (Elite only)
+Col47: Trades
+Col48: Elite only
+Col49: Price $
+Col50: AnyUnder $1Under $2Under $3Under $4Under $5Under $7Under $10Under $15Under $20Under $30Under $40Under $50Over $1Over $2Over $3Over $4Over $5Over $7Over $10Over $15Over $20Over $30Over $40Over $50Over $60Over $70Over $80Over $90Over $100$1 to $5$1 to $10$1 to $20$5 to $10$5 to $20$5 to $50$10 to $20$10 to $50$20 to $50$50 to $100Custom (Elite only)
+Col51: Target Price
+Col52: Any50% Above Price40% Above Price30% Above Price20% Above Price10% Above Price5% Above PriceAbove PriceBelow Price5% Below Price10% Below Price20% Below Price30% Below Price40% Below Price50% Below PriceCustom (Elite only)
+Col53: IPO Date
+Col54: AnyTodayYesterdayIn the last weekIn the last monthIn the last quarterIn the last yearIn the last 2 yearsIn the last 3 yearsIn the last 5 yearsMore than a year agoMore than 5 years agoMore than 10 years agoMore than 15 years agoMore than 20 years agoMore than 25 years agoCustom (Elite only)
+Col55: Shares Outstanding
+Col56: AnyUnder 1MUnder 5MUnder 10MUnder 20MUnder 50MUnder 100MOver 1MOver 2MOver 5MOver 10MOver 20MOver 50MOver 100MOver 200MOver 500MOver 1000MCustom (Elite only)
+Col57: Float
+Col58: AnyUnder 1MUnder 5MUnder 10MUnder 20MUnder 50MUnder 100MOver 1MOver 2MOver 5MOver 10MOver 20MOver 50MOver 100MOver 200MOver 500MOver 1000MUnder 10%Under 20%Under 30%Under 40%Under 50%Under 60%Under 70%Under 80%Under 90%Over 10%Over 20%Over 30%Over 40%Over 50%Over 60%Over 70%Over 80%Over 90%Custom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">EXCHANGE-20251007041654</guid></item><item><title>ANYAMEXCBOENASDAQNYSECUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>#</link><description>No.: Exchange
+Industry: Index
+Country: AnyS&amp;P 500NASDAQ 100DJIARUSSELL 2000Custom (Elite only)
+Price: Sector
+Change: AnyBasic MaterialsCommunication ServicesConsumer CyclicalConsumer DefensiveEnergyFinancialHealthcareIndustrialsReal EstateTechnologyUtilitiesCustom (Elite only)
+Col12: Industry
+Col13: AnyStocks only (ex-Funds)Exchange Traded FundAdvertising AgenciesAerospace &amp; DefenseAgricultural InputsAirlinesAirports &amp; Air ServicesAluminumApparel ManufacturingApparel RetailAsset ManagementAuto ManufacturersAuto PartsAuto &amp; Truck DealershipsBanks - DiversifiedBanks - RegionalBeverages - BrewersBeverages - Non-AlcoholicBeverages - Wineries &amp; DistilleriesBiotechnologyBroadcastingBuilding MaterialsBuilding Products &amp; EquipmentBusiness Equipment &amp; SuppliesCapital MarketsChemicalsClosed-End Fund - DebtClosed-End Fund - EquityClosed-End Fund - ForeignCoking CoalCommunication EquipmentComputer HardwareConfectionersConglomeratesConsulting ServicesConsumer ElectronicsCopperCredit ServicesDepartment StoresDiagnostics &amp; ResearchDiscount StoresDrug Manufacturers - GeneralDrug Manufacturers - Specialty &amp; GenericEducation &amp; Training ServicesElectrical Equipment &amp; PartsElectronic ComponentsElectronic Gaming &amp; MultimediaElectronics &amp; Computer DistributionEngineering &amp; ConstructionEntertainmentExchange Traded FundFarm &amp; Heavy Construction MachineryFarm ProductsFinancial ConglomeratesFinancial Data &amp; Stock ExchangesFood DistributionFootwear &amp; AccessoriesFurnishings, Fixtures &amp; AppliancesGamblingGoldGrocery StoresHealthcare PlansHealth Information ServicesHome Improvement RetailHousehold &amp; Personal ProductsIndustrial DistributionInformation Technology ServicesInfrastructure OperationsInsurance BrokersInsurance - DiversifiedInsurance - LifeInsurance - Property &amp; CasualtyInsurance - ReinsuranceInsurance - SpecialtyIntegrated Freight &amp; LogisticsInternet Content &amp; InformationInternet RetailLeisureLodgingLumber &amp; Wood ProductionLuxury GoodsMarine ShippingMedical Care FacilitiesMedical DevicesMedical DistributionMedical Instruments &amp; SuppliesMetal FabricationMortgage FinanceOil &amp; Gas DrillingOil &amp; Gas E&amp;POil &amp; Gas Equipment &amp; ServicesOil &amp; Gas IntegratedOil &amp; Gas MidstreamOil &amp; Gas Refining &amp; MarketingOther Industrial Metals &amp; MiningOther Precious Metals &amp; MiningPackaged FoodsPackaging &amp; ContainersPaper &amp; Paper ProductsPersonal ServicesPharmaceutical RetailersPollution &amp; Treatment ControlsPublishingRailroadsReal Estate - DevelopmentReal Estate - DiversifiedReal Estate ServicesRecreational VehiclesREIT - DiversifiedREIT - Healthcare FacilitiesREIT - Hotel &amp; MotelREIT - IndustrialREIT - MortgageREIT - OfficeREIT - ResidentialREIT - RetailREIT - SpecialtyRental &amp; Leasing ServicesResidential ConstructionResorts &amp; CasinosRestaurantsScientific &amp; Technical InstrumentsSecurity &amp; Protection ServicesSemiconductor Equipment &amp; MaterialsSemiconductorsShell CompaniesSilverSoftware - ApplicationSoftware - InfrastructureSolarSpecialty Business ServicesSpecialty ChemicalsSpecialty Industrial MachinerySpecialty RetailStaffing &amp; Employment ServicesSteelTelecom ServicesTextile ManufacturingThermal CoalTobaccoTools &amp; AccessoriesTravel ServicesTruckingUraniumUtilities - DiversifiedUtilities - Independent Power ProducersUtilities - Regulated ElectricUtilities - Regulated GasUtilities - Regulated WaterUtilities - RenewableWaste ManagementCustom (Elite only)
+Col16: Country
+Col17: AnyUSAForeign (ex-USA)AsiaEuropeLatin AmericaBRICArgentinaAustraliaBahamasBelgiumBeNeLuxBermudaBrazilCanadaCayman IslandsChileChinaChina &amp; Hong KongColombiaCyprusDenmarkFinlandFranceGermanyGreeceHong KongHungaryIcelandIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanLuxembourgMalaysiaMaltaMexicoMonacoNetherlandsNew ZealandNorwayPanamaPeruPhilippinesPortugalRussiaSingaporeSouth AfricaSouth KoreaSpainSwedenSwitzerlandTaiwanThailandTurkeyUnited Arab EmiratesUnited KingdomUruguayVietnamCustom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYAMEXCBOENASDAQNYSECUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>ANYMEGA ($200BLN AND MORE)LARGE ($10BLN TO $200BLN)MID ($2BLN TO $10BLN)SMALL ($300MLN TO $2BLN)MICRO ($50MLN TO $300MLN)NANO (UNDER $50MLN)+LARGE (OVER $10BLN)+MID (OVER $2BLN)+SMALL (OVER $300MLN)+MICRO (OVER $50MLN)-LARGE (UNDER $200BLN)-MID (UNDER $10BLN)-SMALL (UNDER $2BLN)-MICRO (UNDER $300MLN)CUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=ANYMEGA ($200BLN AND MORE)LARGE ($10BLN TO $200BLN)MID ($2BLN TO $10BLN)SMALL ($300MLN TO $2BLN)MICRO ($50MLN TO $300MLN)NANO (UNDER $50MLN)+LARGE (OVER $10BLN)+MID (OVER $2BLN)+SMALL (OVER $300MLN)+MICRO (OVER $50MLN)-LARGE (UNDER $200BLN)-MID (UNDER $10BLN)-SMALL (UNDER $2BLN)-MICRO (UNDER $300MLN)CUSTOM (ELITE ONLY)</link><description>No.: Market Cap.
+Company: Dividend Yield
+Sector: AnyNone (0%)Positive (&gt;0%)High (&gt;5%)Very High (&gt;10%)Over 1%Over 2%Over 3%Over 4%Over 5%Over 6%Over 7%Over 8%Over 9%Over 10%Custom (Elite only)
+Industry: Short Float
+Country: AnyLow (&lt;5%)High (&gt;20%)Under 5%Under 10%Under 15%Under 20%Under 25%Under 30%Over 5%Over 10%Over 15%Over 20%Over 25%Over 30%Custom (Elite only)
+Market Cap: Analyst Recom.
+P/E: AnyStrong Buy (1)Buy or betterBuyHold or betterHoldHold or worseSellSell or worseStrong Sell (5)Custom (Elite only)
+Volume: Option/Short
+Col11: AnyOptionableShortableNot optionableNot shortableOptionable and shortableOptionable and not shortableNot optionable and shortableNot optionable and not shortableShort Sale Restricted (Elite only)Halted (Elite only)Over 10K available to shortOver 100K available to shortOver 1M available to shortOver 10M available to shortOver $1M available to shortOver $10M available to shortOver $100M available to shortOver $1B available to shortCustom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYMEGA ($200BLN AND MORE)LARGE ($10BLN TO $200BLN)MID ($2BLN TO $10BLN)SMALL ($300MLN TO $2BLN)MICRO ($50MLN TO $300MLN)NANO (UNDER $50MLN)+LARGE (OVER $10BLN)+MID (OVER $2BLN)+SMALL (OVER $300MLN)+MICRO (OVER $50MLN)-LARGE (UNDER $200BLN)-MID (UNDER $10BLN)-SMALL (UNDER $2BLN)-MICRO (UNDER $300MLN)CUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>ANYTODAYTODAY BEFORE MARKET OPENTODAY AFTER MARKET CLOSETOMORROWTOMORROW BEFORE MARKET OPENTOMORROW AFTER MARKET CLOSEYESTERDAYYESTERDAY BEFORE MARKET OPENYESTERDAY AFTER MARKET CLOSENEXT 5 DAYSPREVIOUS 5 DAYSTHIS WEEKNEXT WEEKPREVIOUS WEEKTHIS MONTHCUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>#</link><description>No.: Earnings Date
+Industry: Average Volume
+Country: AnyUnder 50KUnder 100KUnder 500KUnder 750KUnder 1MOver 50KOver 100KOver 200KOver 300KOver 400KOver 500KOver 750KOver 1MOver 2M100K to 500K100K to 1M500K to 1M500K to 10MCustom (Elite only)
+Market Cap: Relative Volume
+P/E: AnyOver 10Over 5Over 3Over 2Over 1.5Over 1Over 0.75Over 0.5Over 0.25Under 2Under 1.5Under 1Under 0.75Under 0.5Under 0.25Under 0.1Custom (Elite only)
+Price: Current Volume
+Change: AnyUnder 50KUnder 100KUnder 500KUnder 750KUnder 1MOver 0Over 50KOver 100KOver 200KOver 300KOver 400KOver 500KOver 750KOver 1MOver 2MOver 5MOver 10MOver 20MOver 50% shares floatOver 100% shares floatUnder $1MUnder $10MUnder $100MUnder $1BOver $1MOver $10MOver $100MOver $1BCustom (Elite only)
+Col12: Trades
+Col13: Elite only</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYTODAYTODAY BEFORE MARKET OPENTODAY AFTER MARKET CLOSETOMORROWTOMORROW BEFORE MARKET OPENTOMORROW AFTER MARKET CLOSEYESTERDAYYESTERDAY BEFORE MARKET OPENYESTERDAY AFTER MARKET CLOSENEXT 5 DAYSPREVIOUS 5 DAYSTHIS WEEKNEXT WEEKPREVIOUS WEEKTHIS MONTHCUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>ANYUNDER $1UNDER $2UNDER $3UNDER $4UNDER $5UNDER $7UNDER $10UNDER $15UNDER $20UNDER $30UNDER $40UNDER $50OVER $1OVER $2OVER $3OVER $4OVER $5OVER $7OVER $10OVER $15OVER $20OVER $30OVER $40OVER $50OVER $60OVER $70OVER $80OVER $90OVER $100$1 TO $5$1 TO $10$1 TO $20$5 TO $10$5 TO $20$5 TO $50$10 TO $20$10 TO $50$20 TO $50$50 TO $100CUSTOM (ELITE ONLY) 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=ANYUNDER $1UNDER $2UNDER $3UNDER $4UNDER $5UNDER $7UNDER $10UNDER $15UNDER $20UNDER $30UNDER $40UNDER $50OVER $1OVER $2OVER $3OVER $4OVER $5OVER $7OVER $10OVER $15OVER $20OVER $30OVER $40OVER $50OVER $60OVER $70OVER $80OVER $90OVER $100$1 TO $5$1 TO $10$1 TO $20$5 TO $10$5 TO $20$5 TO $50$10 TO $20$10 TO $50$20 TO $50$50 TO $100CUSTOM (ELITE ONLY)</link><description>No.: Price $
+Company: Target Price
+Sector: Any50% Above Price40% Above Price30% Above Price20% Above Price10% Above Price5% Above PriceAbove PriceBelow Price5% Below Price10% Below Price20% Below Price30% Below Price40% Below Price50% Below PriceCustom (Elite only)
+Industry: IPO Date
+Country: AnyTodayYesterdayIn the last weekIn the last monthIn the last quarterIn the last yearIn the last 2 yearsIn the last 3 yearsIn the last 5 yearsMore than a year agoMore than 5 years agoMore than 10 years agoMore than 15 years agoMore than 20 years agoMore than 25 years agoCustom (Elite only)
+Market Cap: Shares Outstanding
+P/E: AnyUnder 1MUnder 5MUnder 10MUnder 20MUnder 50MUnder 100MOver 1MOver 2MOver 5MOver 10MOver 20MOver 50MOver 100MOver 200MOver 500MOver 1000MCustom (Elite only)
+Price: Float
+Change: AnyUnder 1MUnder 5MUnder 10MUnder 20MUnder 50MUnder 100MOver 1MOver 2MOver 5MOver 10MOver 20MOver 50MOver 100MOver 200MOver 500MOver 1000MUnder 10%Under 20%Under 30%Under 40%Under 50%Under 60%Under 70%Under 80%Under 90%Over 10%Over 20%Over 30%Over 40%Over 50%Over 60%Over 70%Over 80%Over 90%Custom (Elite only)</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">ANYUNDER $1UNDER $2UNDER $3UNDER $4UNDER $5UNDER $7UNDER $10UNDER $15UNDER $20UNDER $30UNDER $40UNDER $50OVER $1OVER $2OVER $3OVER $4OVER $5OVER $7OVER $10OVER $15OVER $20OVER $30OVER $40OVER $50OVER $60OVER $70OVER $80OVER $90OVER $100$1 TO $5$1 TO $10$1 TO $20$5 TO $10$5 TO $20$5 TO $50$10 TO $20$10 TO $50$20 TO $50$50 TO $100CUSTOM (ELITE ONLY)-20251007041654</guid></item><item><title>OVERVIEW VALUATION FINANCIAL OWNERSHIP PERFORMANCE TECHNICAL ETF ETF PERF CUSTOM CHARTS TICKERS BASIC TA NEWS SNAPSHOT MAPS STATS 0.00% — $0.00 | Vol 0 | MCap 0</title><link>screener.ashx?v=111&amp;f=cap_midover,sh_avgvol_o1000,sh_opt_option</link><description>No.: Overview Valuation Financial Ownership Performance Technical ETF ETF Perf Custom Charts Tickers Basic TA News Snapshot Maps Stats #1 / 1247 Total save as portfolio | create alert Refresh: 3min | off Page 1 / 63Page 2 / 63Page 3 / 63Page 4 / 63Page 5 / 63Page 6 / 63Page 7 / 63Page 8 / 63Page 9 / 63Page 10 / 63Page 11 / 63Page 12 / 63Page 13 / 63Page 14 / 63Page 15 / 63Page 16 / 63Page 17 / 63Page 18 / 63Page 19 / 63Page 20 / 63Page 21 / 63Page 22 / 63Page 23 / 63Page 24 / 63Page 25 / 63Page 26 / 63Page 27 / 63Page 28 / 63Page 29 / 63Page 30 / 63Page 31 / 63Page 32 / 63Page 33 / 63Page 34 / 63Page 35 / 63Page 36 / 63Page 37 / 63Page 38 / 63Page 39 / 63Page 40 / 63Page 41 / 63Page 42 / 63Page 43 / 63Page 44 / 63Page 45 / 63Page 46 / 63Page 47 / 63Page 48 / 63Page 49 / 63Page 50 / 63Page 51 / 63Page 52 / 63Page 53 / 63Page 54 / 63Page 55 / 63Page 56 / 63Page 57 / 63Page 58 / 63Page 59 / 63Page 60 / 63Page 61 / 63Page 62 / 63Page 63 / 63 No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1AAgilent Technologies IncHealthcareDiagnostics &amp; ResearchUSA40.15B33.21141.61-0.02%1,523,870 2AAAlcoa CorpBasic MaterialsAluminumUSA8.75B8.6733.79-2.06%5,360,539 3AALAmerican Airlines Group IncIndustrialsAirlinesUSA7.81B15.2111.832.16%92,874,135 4AAOIApplied Optoelectronics IncTechnologyCommunication EquipmentUSA2.11B-33.7920.98%10,769,401 5AAONAAON IncIndustrialsBuilding Products &amp; EquipmentUSA8.47B70.80103.855.62%1,458,018 6AAPAdvance Auto Parts IncConsumer CyclicalAuto PartsUSA3.50B-58.31-4.94%1,584,490 7AAPLApple IncTechnologyConsumer ElectronicsUSA3809.38B39.02256.69-0.52%42,474,281 8ABBVAbbvie IncHealthcareDrug Manufacturers - GeneralUSA406.64B109.55230.19-1.59%10,422,177 9ABEVAmbev S.A. ADRConsumer DefensiveBeverages - BrewersBrazil33.99B13.372.180.46%32,515,953 10ABNBAirbnb IncConsumer CyclicalTravel ServicesUSA74.79B29.04120.350.11%5,465,818 11ABRArbor Realty Trust IncReal EstateREIT - MortgageUSA2.36B13.9112.28-1.44%1,814,087 12ABTAbbott LaboratoriesHealthcareMedical DevicesUSA232.77B16.73133.74-0.63%6,681,791 13ABTCAmerican Bitcoin CorpFinancialCapital MarketsUSA6.50B-7.152.44%3,532,683 14ABVXAbivax ADRHealthcareBiotechnologyFrance6.75B-86.673.28%2,940,908 15ACADAcadia Pharmaceuticals IncHealthcareBiotechnologyUSA3.64B16.2221.59-0.96%2,178,136 16ACGLArch Capital Group LtdFinancialInsurance - DiversifiedBermuda34.09B9.4491.350.62%1,473,439 17ACHCAcadia Healthcare Company IncHealthcareMedical Care FacilitiesUSA2.44B17.4326.46-2.51%2,629,556 18ACHRArcher Aviation IncIndustrialsAerospace &amp; DefenseUSA8.80B-13.6417.89%153,490,130 19ACIAlbertsons Companies IncConsumer DefensiveGrocery StoresUSA9.41B10.2416.80-3.34%8,732,732 20ACMRACM Research IncTechnologySemiconductor Equipment &amp; MaterialsUSA2.68B25.3541.780.53%1,035,806 Filters: cap:midover sh_avgvol:o1000 sh_opt:optionexport 123456⋯10⋯20⋯30⋯40⋯50⋯60⋯63
+Company: Overview
+Sector: Valuation
+Industry: Financial
+Country: Ownership
+Market Cap: Performance
+P/E: Technical
+Price: ETF
+Change: ETF Perf
+Volume: Custom
+Col11: Charts
+Col12: Tickers
+Col13: Basic
+Col14: TA
+Col15: News
+Col16: Snapshot
+Col17: Maps
+Col18: Stats
+Col20: #1 / 1247 Total save as portfolio | create alert Refresh: 3min | off Page 1 / 63Page 2 / 63Page 3 / 63Page 4 / 63Page 5 / 63Page 6 / 63Page 7 / 63Page 8 / 63Page 9 / 63Page 10 / 63Page 11 / 63Page 12 / 63Page 13 / 63Page 14 / 63Page 15 / 63Page 16 / 63Page 17 / 63Page 18 / 63Page 19 / 63Page 20 / 63Page 21 / 63Page 22 / 63Page 23 / 63Page 24 / 63Page 25 / 63Page 26 / 63Page 27 / 63Page 28 / 63Page 29 / 63Page 30 / 63Page 31 / 63Page 32 / 63Page 33 / 63Page 34 / 63Page 35 / 63Page 36 / 63Page 37 / 63Page 38 / 63Page 39 / 63Page 40 / 63Page 41 / 63Page 42 / 63Page 43 / 63Page 44 / 63Page 45 / 63Page 46 / 63Page 47 / 63Page 48 / 63Page 49 / 63Page 50 / 63Page 51 / 63Page 52 / 63Page 53 / 63Page 54 / 63Page 55 / 63Page 56 / 63Page 57 / 63Page 58 / 63Page 59 / 63Page 60 / 63Page 61 / 63Page 62 / 63Page 63 / 63
+Col22: No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1AAgilent Technologies IncHealthcareDiagnostics &amp; ResearchUSA40.15B33.21141.61-0.02%1,523,870 2AAAlcoa CorpBasic MaterialsAluminumUSA8.75B8.6733.79-2.06%5,360,539 3AALAmerican Airlines Group IncIndustrialsAirlinesUSA7.81B15.2111.832.16%92,874,135 4AAOIApplied Optoelectronics IncTechnologyCommunication EquipmentUSA2.11B-33.7920.98%10,769,401 5AAONAAON IncIndustrialsBuilding Products &amp; EquipmentUSA8.47B70.80103.855.62%1,458,018 6AAPAdvance Auto Parts IncConsumer CyclicalAuto PartsUSA3.50B-58.31-4.94%1,584,490 7AAPLApple IncTechnologyConsumer ElectronicsUSA3809.38B39.02256.69-0.52%42,474,281 8ABBVAbbvie IncHealthcareDrug Manufacturers - GeneralUSA406.64B109.55230.19-1.59%10,422,177 9ABEVAmbev S.A. ADRConsumer DefensiveBeverages - BrewersBrazil33.99B13.372.180.46%32,515,953 10ABNBAirbnb IncConsumer CyclicalTravel ServicesUSA74.79B29.04120.350.11%5,465,818 11ABRArbor Realty Trust IncReal EstateREIT - MortgageUSA2.36B13.9112.28-1.44%1,814,087 12ABTAbbott LaboratoriesHealthcareMedical DevicesUSA232.77B16.73133.74-0.63%6,681,791 13ABTCAmerican Bitcoin CorpFinancialCapital MarketsUSA6.50B-7.152.44%3,532,683 14ABVXAbivax ADRHealthcareBiotechnologyFrance6.75B-86.673.28%2,940,908 15ACADAcadia Pharmaceuticals IncHealthcareBiotechnologyUSA3.64B16.2221.59-0.96%2,178,136 16ACGLArch Capital Group LtdFinancialInsurance - DiversifiedBermuda34.09B9.4491.350.62%1,473,439 17ACHCAcadia Healthcare Company IncHealthcareMedical Care FacilitiesUSA2.44B17.4326.46-2.51%2,629,556 18ACHRArcher Aviation IncIndustrialsAerospace &amp; DefenseUSA8.80B-13.6417.89%153,490,130 19ACIAlbertsons Companies IncConsumer DefensiveGrocery StoresUSA9.41B10.2416.80-3.34%8,732,732 20ACMRACM Research IncTechnologySemiconductor Equipment &amp; MaterialsUSA2.68B25.3541.780.53%1,035,806
+Col23: No. Ticker Company Sector Industry Country Market Cap P/E Price Change Volume 1AAgilent Technologies IncHealthcareDiagnostics &amp; ResearchUSA40.15B33.21141.61-0.02%1,523,870 2AAAlcoa CorpBasic MaterialsAluminumUSA8.75B8.6733.79-2.06%5,360,539 3AALAmerican Airlines Group IncIndustrialsAirlinesUSA7.81B15.2111.832.16%92,874,135 4AAOIApplied Optoelectronics IncTechnologyCommunication EquipmentUSA2.11B-33.7920.98%10,769,401 5AAONAAON IncIndustrialsBuilding Products &amp; EquipmentUSA8.47B70.80103.855.62%1,458,018 6AAPAdvance Auto Parts IncConsumer CyclicalAuto PartsUSA3.50B-58.31-4.94%1,584,490 7AAPLApple IncTechnologyConsumer ElectronicsUSA3809.38B39.02256.69-0.52%42,474,281 8ABBVAbbvie IncHealthcareDrug Manufacturers - GeneralUSA406.64B109.55230.19-1.59%10,422,177 9ABEVAmbev S.A. ADRConsumer DefensiveBeverages - BrewersBrazil33.99B13.372.180.46%32,515,953 10ABNBAirbnb IncConsumer CyclicalTravel ServicesUSA74.79B29.04120.350.11%5,465,818 11ABRArbor Realty Trust IncReal EstateREIT - MortgageUSA2.36B13.9112.28-1.44%1,814,087 12ABTAbbott LaboratoriesHealthcareMedical DevicesUSA232.77B16.73133.74-0.63%6,681,791 13ABTCAmerican Bitcoin CorpFinancialCapital MarketsUSA6.50B-7.152.44%3,532,683 14ABVXAbivax ADRHealthcareBiotechnologyFrance6.75B-86.673.28%2,940,908 15ACADAcadia Pharmaceuticals IncHealthcareBiotechnologyUSA3.64B16.2221.59-0.96%2,178,136 16ACGLArch Capital Group LtdFinancialInsurance - DiversifiedBermuda34.09B9.4491.350.62%1,473,439 17ACHCAcadia Healthcare Company IncHealthcareMedical Care FacilitiesUSA2.44B17.4326.46-2.51%2,629,556 18ACHRArcher Aviation IncIndustrialsAerospace &amp; DefenseUSA8.80B-13.6417.89%153,490,130 19ACIAlbertsons Companies IncConsumer DefensiveGrocery StoresUSA9.41B10.2416.80-3.34%8,732,732 20ACMRACM Research IncTechnologySemiconductor Equipment &amp; MaterialsUSA2.68B25.3541.780.53%1,035,806
+Col24: 1
+Col25: A
+Col26: Agilent Technologies Inc
+Col27: Healthcare
+Col28: Diagnostics &amp; Research
+Col29: USA
+Col30: 40.15B
+Col31: 33.21
+Col32: 141.61
+Col33: -0.02%
+Col34: 1,523,870
+Col35: 2
+Col36: AA
+Col37: Alcoa Corp
+Col38: Basic Materials
+Col39: Aluminum
+Col40: USA
+Col41: 8.75B
+Col42: 8.67
+Col43: 33.79
+Col44: -2.06%
+Col45: 5,360,539
+Col46: 3
+Col47: AAL
+Col48: American Airlines Group Inc
+Col49: Industrials
+Col50: Airlines
+Col51: USA
+Col52: 7.81B
+Col53: 15.21
+Col54: 11.83
+Col55: 2.16%
+Col56: 92,874,135
+Col57: 4
+Col58: AAOI
+Col59: Applied Optoelectronics Inc
+Col60: Technology
+Col61: Communication Equipment
+Col62: USA
+Col63: 2.11B
+Col64: -
+Col65: 33.79
+Col66: 20.98%
+Col67: 10,769,401
+Col68: 5
+Col69: AAON
+Col70: AAON Inc
+Col71: Industrials
+Col72: Building Products &amp; Equipment
+Col73: USA
+Col74: 8.47B
+Col75: 70.80
+Col76: 103.85
+Col77: 5.62%
+Col78: 1,458,018
+Col79: 6
+Col80: AAP
+Col81: Advance Auto Parts Inc
+Col82: Consumer Cyclical
+Col83: Auto Parts
+Col84: USA
+Col85: 3.50B
+Col86: -
+Col87: 58.31
+Col88: -4.94%
+Col89: 1,584,490
+Col90: 7
+Col91: AAPL
+Col92: Apple Inc
+Col93: Technology
+Col94: Consumer Electronics
+Col95: USA
+Col96: 3809.38B
+Col97: 39.02
+Col98: 256.69
+Col99: -0.52%
+Col100: 42,474,281
+Col101: 8
+Col102: ABBV
+Col103: Abbvie Inc
+Col104: Healthcare
+Col105: Drug Manufacturers - General
+Col106: USA
+Col107: 406.64B
+Col108: 109.55
+Col109: 230.19
+Col110: -1.59%
+Col111: 10,422,177
+Col112: 9
+Col113: ABEV
+Col114: Ambev S.A. ADR
+Col115: Consumer Defensive
+Col116: Beverages - Brewers
+Col117: Brazil
+Col118: 33.99B
+Col119: 13.37
+Col120: 2.18
+Col121: 0.46%
+Col122: 32,515,953
+Col123: 10
+Col124: ABNB
+Col125: Airbnb Inc
+Col126: Consumer Cyclical
+Col127: Travel Services
+Col128: USA
+Col129: 74.79B
+Col130: 29.04
+Col131: 120.35
+Col132: 0.11%
+Col133: 5,465,818
+Col134: 11
+Col135: ABR
+Col136: Arbor Realty Trust Inc
+Col137: Real Estate
+Col138: REIT - Mortgage
+Col139: USA
+Col140: 2.36B
+Col141: 13.91
+Col142: 12.28
+Col143: -1.44%
+Col144: 1,814,087
+Col145: 12
+Col146: ABT
+Col147: Abbott Laboratories
+Col148: Healthcare
+Col149: Medical Devices
+Col150: USA
+Col151: 232.77B
+Col152: 16.73
+Col153: 133.74
+Col154: -0.63%
+Col155: 6,681,791
+Col156: 13
+Col157: ABTC
+Col158: American Bitcoin Corp
+Col159: Financial
+Col160: Capital Markets
+Col161: USA
+Col162: 6.50B
+Col163: -
+Col164: 7.15
+Col165: 2.44%
+Col166: 3,532,683
+Col167: 14
+Col168: ABVX
+Col169: Abivax ADR
+Col170: Healthcare
+Col171: Biotechnology
+Col172: France
+Col173: 6.75B
+Col174: -
+Col175: 86.67
+Col176: 3.28%
+Col177: 2,940,908
+Col178: 15
+Col179: ACAD
+Col180: Acadia Pharmaceuticals Inc
+Col181: Healthcare
+Col182: Biotechnology
+Col183: USA
+Col184: 3.64B
+Col185: 16.22
+Col186: 21.59
+Col187: -0.96%
+Col188: 2,178,136
+Col189: 16
+Col190: ACGL
+Col191: Arch Capital Group Ltd
+Col192: Financial
+Col193: Insurance - Diversified
+Col194: Bermuda
+Col195: 34.09B
+Col196: 9.44
+Col197: 91.35
+Col198: 0.62%
+Col199: 1,473,439
+Col200: 17
+Col201: ACHC
+Col202: Acadia Healthcare Company Inc
+Col203: Healthcare
+Col204: Medical Care Facilities
+Col205: USA
+Col206: 2.44B
+Col207: 17.43
+Col208: 26.46
+Col209: -2.51%
+Col210: 2,629,556
+Col211: 18
+Col212: ACHR
+Col213: Archer Aviation Inc
+Col214: Industrials
+Col215: Aerospace &amp; Defense
+Col216: USA
+Col217: 8.80B
+Col218: -
+Col219: 13.64
+Col220: 17.89%
+Col221: 153,490,130
+Col222: 19
+Col223: ACI
+Col224: Albertsons Companies Inc
+Col225: Consumer Defensive
+Col226: Grocery Stores
+Col227: USA
+Col228: 9.41B
+Col229: 10.24
+Col230: 16.80
+Col231: -3.34%
+Col232: 8,732,732
+Col233: 20
+Col234: ACMR
+Col235: ACM Research Inc
+Col236: Technology
+Col237: Semiconductor Equipment &amp; Materials
+Col238: USA
+Col239: 2.68B
+Col240: 25.35
+Col241: 41.78
+Col242: 0.53%
+Col243: 1,035,806
+Col244: Filters: cap:midover sh_avgvol:o1000 sh_opt:optionexport
+Col245: Filters: cap:midover sh_avgvol:o1000 sh_opt:option
+Col246: export
+Col248: 123456⋯10⋯20⋯30⋯40⋯50⋯60⋯63</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">OVERVIEW VALUATION FINANCIAL OWNERSHIP PERFORMANCE TECHNICAL ETF ETF PERF CUSTOM CHARTS TICKERS BASIC TA NEWS SNAPSHOT MAPS STATS-20251007041654</guid></item><item><title>OVERVIEW 0.00% — $0.00 | Vol 0 | MCap 0</title><link>screener.ashx?v=111&amp;f=cap_midover,sh_avgvol_o1000,sh_opt_option</link><description>No.: Overview Valuation Financial Ownership Performance Technical ETF ETF Perf Custom Charts Tickers Basic TA News Snapshot Maps Stats
+Company: Valuation
+Sector: Financial
+Industry: Ownership
+Country: Performance
+Market Cap: Technical
+P/E: ETF
+Price: ETF Perf
+Change: Custom
+Volume: Charts
+Col11: Tickers
+Col12: Basic
+Col13: TA
+Col14: News
+Col15: Snapshot
+Col16: Maps
+Col17: Stats</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">OVERVIEW-20251007041654</guid></item><item><title>VALUATION 0.00% — $0.00 | Vol 0 | MCap 0</title><link>screener.ashx?v=121&amp;f=cap_midover,sh_avgvol_o1000,sh_opt_option</link><description>No.: Overview
+Company: Financial
+Sector: Ownership
+Industry: Performance
+Country: Technical
+Market Cap: ETF
+P/E: ETF Perf
+Price: Custom
+Change: Charts
+Volume: Tickers
+Col11: Basic
+Col12: TA
+Col13: News
+Col14: Snapshot
+Col15: Maps
+Col16: Stats</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">VALUATION-20251007041654</guid></item><item><title>FILTERS: CAP:MIDOVER SH_AVGVOL:O1000 SH_OPT:OPTION 0.00% — $0.00 | Vol 0 | MCap 0</title><link>https://finviz.com/quote.ashx?t=FILTERS: CAP:MIDOVER SH_AVGVOL:O1000 SH_OPT:OPTION</link><description>No.: Filters: cap:midover sh_avgvol:o1000 sh_opt:optionexport
+Company: export</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">FILTERS: CAP:MIDOVER SH_AVGVOL:O1000 SH_OPT:OPTION-20251007041654</guid></item><item><title>EXPORT 0.00% — $0.00 | Vol 0 | MCap 0</title><link>/elite?utm_source=finviz&amp;utm_medium=banner&amp;utm_campaign=screener-export</link><description>No.: Filters: cap:midover sh_avgvol:o1000 sh_opt:option</description><pubDate>Tue, 07 Oct 2025 04:16:54 -0000</pubDate><guid isPermaLink="false">EXPORT-20251007041654</guid></item></channel></rss>

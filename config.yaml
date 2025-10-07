@@ -1,0 +1,40 @@
+brand: "SolidResource"
+site_url: "https://solidresource.com"
+
+# Where each feed will be publicly hosted (adjust after deployment)
+feeds:
+  finviz_intraday: "https://solidresource.com/feeds/finviz_movers.xml"
+  premarket: "https://solidresource.com/feeds/premarket_movers.xml"
+  combined: "https://solidresource.com/feeds/all.xml"
+
+user_agent: "Mozilla/5.0 (compatible; SolidResourceBot/2.0; +https://solidresource.com)"
+timeout_sec: 20
+retry_attempts: 3
+retry_backoff_sec: 2
+
+# ---------- Sources ----------
+finviz_sources:
+  - name: "Gainers >=5%"
+    url: "https://finviz.com/screener.ashx?v=111&f=cap_smallover%2Csh_avgvol_o1000%2Csh_instown_u60%2Csh_opt_option%2Csh_price_o3%2Csh_relvol_o2%2Cta_change_u5%2Cta_sma20_pca%2Cta_volatility_wo4&ft=3"
+  - name: "Losers <=-5%"
+    url: "https://finviz.com/screener.ashx?v=111&f=cap_midover,sh_opt_option,sh_avgvol_o1000,ta_change_d-5"
+
+# Premarket sources (choose one; keep both to merge)
+premarket_sources:
+  - name: "MarketWatch Gainers"
+    url: "https://www.marketwatch.com/tools/screener/premarket?gaa_at=eafs&gaa_n=ASWzDAiyiFqGFBAgm-yVvIuVKlWT3zmWUQ04LtFZcYsryDFzWdyhN6gdoPjecvpNS-s%3D&gaa_ts=68e49351&gaa_sig=PI-i9zBBzLD9jXBxBbots7ycxAY7UOl7w73hkpt8QdR6-py7b1yd2JooQx0in6ZfqKZWVXCd8RMOPqLsrSfWnw%3D%3D"
+  - name: "Yahoo Finance Pre-Market"
+    url: "https://finance.yahoo.com/markets/pre-market/"
+  - name: "Nasdaq Premarket — Gainers"
+    url: "https://www.nasdaq.com/market-activity/stocks/screener?exchange=nasdaq&tablefilter=premarket&sortby=percentchange&sortorder=desc"
+
+
+# ---------- Filters ----------
+filters:
+  min_price: 3                 # >= $3
+  min_volume: 1000000          # >= 1M shares
+  min_change_pct_abs: 5        # >= |5%| move
+  min_market_cap_usd: 300000000
+  require_ticker: true
+
+max_items: 150
