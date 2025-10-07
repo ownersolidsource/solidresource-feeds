@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # REQUIRED so the workflow can push
+  contents: write  # allow pushing commits with GITHUB_TOKEN
 
 concurrency:
   group: "update-feeds"
@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0            # full history so we can rebase
+          fetch-depth: 0            # full history for rebase
           persist-credentials: true # use GITHUB_TOKEN for push
 
       - name: Set up Python
@@ -34,7 +34,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ensure feeds directory exists
-        run: mkdir -p feeds
+        run: |
+          mkdir -p feeds
+          touch feeds/.keep
 
       - name: Generate Finviz feed
         run: python finviz_rss.py --config config.yaml --out feeds/finviz_movers.xml
@@ -53,13 +55,12 @@ jobs:
 
       - name: Add changes
         run: |
-          git add feeds/*.xml || true
-          # exit early if no diffs (prevents empty commit errors)
+          git add -A feeds
+          # exit early if nothing staged
           git diff --cached --quiet && echo "No feed changes, skipping commit." && exit 0
 
       - name: Rebase to avoid non-fast-forward
         run: |
-          # Make sure our local branch is up-to-date before committing
           CURRENT_BRANCH="${GITHUB_REF_NAME}"
           git fetch origin "${CURRENT_BRANCH}"
           git pull --rebase origin "${CURRENT_BRANCH}" || true
@@ -67,5 +68,4 @@ jobs:
       - name: Commit & push
         run: |
           git commit -m "Update feeds via GitHub Actions [skip ci]" || exit 0
-          # retry push once in case another job pushed between fetch and push
           git push || (git pull --rebase && git push)
