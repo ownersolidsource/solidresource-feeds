@@ -1,27 +1,25 @@
-name: Update SolidResource Feeds
+name: Build & Deploy Feeds to Pages
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # every 30 minutes (UTC)
+    - cron: '*/30 * * * *'   # every 30 minutes (UTC)
   workflow_dispatch:
 
 permissions:
-  contents: write  # allow pushing commits with GITHUB_TOKEN
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-  group: "update-feeds"
+  group: "pages"
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0            # full history for rebase
-          persist-credentials: true # use GITHUB_TOKEN for push
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,39 +31,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Ensure feeds directory exists
+      - name: Build feeds
         run: |
           mkdir -p feeds
-          touch feeds/.keep
+          python finviz_rss.py --config config.yaml --out feeds/finviz_movers.xml
+          python premarket_rss.py --config config.yaml --out feeds/premarket_movers.xml || true
+          python combine_feeds.py --out feeds/all.xml feeds/premarket_movers.xml feeds/finviz_movers.xml || true
+          # Optional: add a simple index so the root isn't blank
+          echo "<h1>SolidResource Feeds</h1><ul><li><a href='feeds/premarket_movers.xml'>Premarket</a></li><li><a href='feeds/finviz_movers.xml'>Finviz Intraday</a></li><li><a href='feeds/all.xml'>Combined</a></li></ul>" > index.html
 
-      - name: Generate Finviz feed
-        run: python finviz_rss.py --config config.yaml --out feeds/finviz_movers.xml
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Publish the WHOLE repo root so /feeds/*.xml are directly accessible
+          path: ./
 
-      - name: Generate Premarket feed (fallback-hardened)
-        run: python premarket_rss.py --config config.yaml --out feeds/premarket_movers.xml || true
-
-      - name: Combine feeds (optional)
-        run: python combine_feeds.py --out feeds/all.xml feeds/premarket_movers.xml feeds/finviz_movers.xml || true
-
-      - name: Configure git
-        run: |
-          git config user.name "solid-bot"
-          git config user.email "bot@solidresource.com"
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
-
-      - name: Add changes
-        run: |
-          git add -A feeds
-          # exit early if nothing staged
-          git diff --cached --quiet && echo "No feed changes, skipping commit." && exit 0
-
-      - name: Rebase to avoid non-fast-forward
-        run: |
-          CURRENT_BRANCH="${GITHUB_REF_NAME}"
-          git fetch origin "${CURRENT_BRANCH}"
-          git pull --rebase origin "${CURRENT_BRANCH}" || true
-
-      - name: Commit & push
-        run: |
-          git commit -m "Update feeds via GitHub Actions [skip ci]" || exit 0
-          git push || (git pull --rebase && git push)
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
